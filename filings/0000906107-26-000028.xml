@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-06-18</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000906107</issuerCik>
+        <issuerName>EQUITY RESIDENTIAL</issuerName>
+        <issuerTradingSymbol>EQR</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001345978</rptOwnerCik>
+            <rptOwnerName>SHAPIRO MARK S</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>TWO NORTH RIVERSIDE PLAZA, SUITE 400</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CHICAGO</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60606</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Units</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-06-18</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3561</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2036-06-18</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Shares Of Beneficial Interest</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>3561</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3561</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On June 18, 2026, the reporting person elected to receive a grant of Series 2026C restricted limited partnership interests (&quot;RUs&quot;) in ERP Operating Limited Partnership (the &quot;OP&quot;), the OP of Equity Residential (the &quot;Company&quot;), in connection with the Company's annual grant of long-term compensation for prospective service from the 2026 Annual Meeting of Shareholders.</footnote>
+        <footnote id="F2">RUs are a class of partnership interest that automatically convert into an equal number of limited partnership interests of the OP (&quot;OP Units&quot;) when the capital account related to the RUs reaches a specified target for federal income tax purposes (provided such target is reached within ten years of issuance).  Subject to the vesting requirements of the grant and certain other restrictions, OP Units are exchangeable by the holder for common shares of the Company on a one-for-one basis or the cash value of such shares, at the Company's option.  The RUs reflected in this report also include any OP Units into which such RUs automatically convert.</footnote>
+        <footnote id="F3">The RUs are scheduled to vest on June 18, 2027.  In addition, the RUs (including any OP Units into which they may automatically convert) are subject to a holding restriction until June 18, 2028.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Samantha Thompson, Attorney-in-fact</signatureName>
+        <signatureDate>2026-06-23</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

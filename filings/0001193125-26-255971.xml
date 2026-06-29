@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-06-01</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000003197</issuerCik>
+        <issuerName>CECO ENVIRONMENTAL CORP</issuerName>
+        <issuerTradingSymbol>CECO</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001216231</rptOwnerCik>
+            <rptOwnerName>RICHEY VICTOR L JR</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>5080 SPECTRUM DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 800E</rptOwnerStreet2>
+            <rptOwnerCity>ADDISON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75001</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-06-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6378</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6378</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F4"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2026-06-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2215</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F5"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2215</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2215</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On June 1, 2026 (the &quot;Closing Date&quot;), pursuant to an Agreement and Plan of Merger, dated as of February 23, 2026 (the &quot;Merger Agreement&quot;), by and among CECO Environmental Corp. (the &quot;Issuer&quot;), Thermon Group Holdings, Inc. (&quot;Thermon&quot;), Longhorn Merger Sub, Inc. (&quot;Merger Sub, Inc.&quot;) and Longhorn Merger Sub LLC (&quot;Merger Sub LLC&quot;), (i) Merger Sub, Inc. merged with and into Thermon, with Thermon continuing as a wholly-owned subsidiary of the Issuer and the surviving corporation of the merger (the &quot;First Merger&quot;) and (ii) Thermon, as the surviving corporation of the First Merger, merged with and into Merger Sub LLC, with Merger Sub LLC being the surviving entity of the merger.</footnote>
+        <footnote id="F2">(Continued from Footnote 1) Pursuant to the Merger Agreement, at the effective time of the First Merger (the &quot;Effective Time&quot;), each share of Thermon's common stock issued and outstanding immediately prior to the Effective Time was converted into the right to receive, at the election of the holder and subject to the proration mechanisms set forth in the Merger Agreement, one of the following forms of merger consideration: (A) 0.6840 shares of the Issuer's common stock plus $10.00 in cash without interest (the &quot;Mixed Election Consideration&quot;), (B) $63.89 in cash, (C) 0.8110 shares of the Issuer's common stock (the &quot;Stock Election Consideration&quot;), or (D) for any shares of Thermon's common stock for which no election was made, the Mixed Election Consideration.</footnote>
+        <footnote id="F3">(Continued from Footnote 2) The Reporting Person elected to receive the Stock Election Consideration in exchange for his shares of Thermon common stock. As a result, the Reporting Person received 6,378 shares of the Issuer's common stock in exchange for shares of Thermon common stock held by the Reporting Person immediately prior to the Effective Time.</footnote>
+        <footnote id="F4">Represents restricted stock units granted under the CECO Environmental Corp. Deferred Compensation Plan for Non-Employee Directors. Each restricted stock unit represents a contingent right to receive one share of the Issuer's common stock and will vest on May 15, 2027.</footnote>
+        <footnote id="F5">Conversion of restricted stock units to the Issuer's common stock and distribution of such stock under the Deferred Compensation Plan is deferred until termination of service as a director.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Kiril Kovachev as Attorney-in-Fact for Victor L. Richey Jr.</signatureName>
+        <signatureDate>2026-06-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>

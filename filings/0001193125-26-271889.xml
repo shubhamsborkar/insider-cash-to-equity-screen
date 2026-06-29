@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-06-12</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001098972</issuerCik>
+        <issuerName>AGENUS INC</issuerName>
+        <issuerTradingSymbol>AGEN</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000935679</rptOwnerCik>
+            <rptOwnerName>ARMEN GARO H</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O AGENUS INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>3 FORBES ROAD</rptOwnerStreet2>
+            <rptOwnerCity>LEXINGTON</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02421</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>See Remarks</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-06-12</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4925</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.30</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>360892</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>31298</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>28950</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">At his request and with the approval of the Agenus Inc. Compensation Committee, Garo H. Armen's salary is being paid in stock, in lieu of cash. The amount reported herein represents the net amount of Dr. Armen's salary for the pay period ending June 12th, 2026. Such shares are issued in accordance with the Amended and Restated Agenus Inc. 2019 Equity Incentive are fully vested on the date of issuance.</footnote>
+        <footnote id="F2">$3.30 is the closing price of our Common Stock on June 12th, 2026, the last trading day for the payroll date for the pay period ending June 12th, 2026.</footnote>
+        <footnote id="F3">Shares are held in Dr. Armen's IRA accounts.</footnote>
+        <footnote id="F4">Dr. Armen is trustee and has investment authority for the Garo Armen 2020 2 Year AG GRAT holder of 23,950 shares of our Common Stock. Dr. Armen is a general partner in Pixie Partners, a General Partnership (&quot;Pixie&quot;), which as of the date of this report owns 5,000 shares of our Common Stock. Dr. Armen has a pecuniary interest in only a portion of the shares held by Pixie and disclaims beneficial ownership to the extent of his pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <remarks>Chairman, Chief Executive Officer and Principal Financial Officer</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Melissa Orilall, as Attorney-in-Fact for Garo H. Armen</signatureName>
+        <signatureDate>2026-06-12</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
