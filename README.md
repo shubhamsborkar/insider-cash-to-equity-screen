@@ -11,6 +11,7 @@ them directly from SEC EDGAR.
 **Everything here traces to a primary SEC filing** — accession number or EDGAR link. No
 figure or quote comes from memory or a search snippet; if it couldn't be traced, it was
 left out.
+Newsletter link: https://ai.shikshannivesh.com/p/i-taught-claude-code-to-catch-the?r=5g43y1
 
 ## What the screen did
 
