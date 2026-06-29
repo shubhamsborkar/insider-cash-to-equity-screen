@@ -1,86 +1,95 @@
-# Insider Cash-to-Equity Screen
+# Insider cash-to-equity elections — an EDGAR footnote screen
 
-A reproducible screen that finds a specific insider signal most feeds never show you:
-a director or officer electing to take their retainer, fees, or salary in stock
-instead of cash. It produces no open-market buy, so it never hits an insider feed.
-The only record is a free-text footnote on an SEC Form 4, and commercial vendors
-strip footnotes out.
+A reproducible screen for a specific insider signal that commercial insider feeds miss:
+**a director or officer who elected to take their board retainer, fees, or salary in
+stock instead of cash.** It is a real choice to own the shares over guaranteed money, but
+it settles as compensation — so it never files as an open-market buy. The only trace is a
+free-text footnote on a Form 4, and most vendors strip footnotes out. This repo finds
+them directly from SEC EDGAR.
 
-This repo is the full working record behind the Alpha with AI edition
-"I Taught Claude Code to Catch the Insider Buy That Never Shows Up on an Insider Feed."
-Everything here traces to a primary SEC filing. Nothing is from model memory or a
-search snippet.
+**Window:** Form 4 filings 2026-05-30 → 2026-06-29 (the 30 days ending on the run date).
+**Everything here traces to a primary SEC filing** — accession number or EDGAR link. No
+figure or quote comes from memory or a search snippet; if it couldn't be traced, it was
+left out.
 
-## What this does
+## What the screen did
 
-1. Searches SEC EDGAR full-text search for Form 4 filings whose footnotes contain
-   genuine election language ("in lieu of cash", "in lieu of director fees",
-   "elected to receive").
-2. Downloads the raw Form 4 XML for each hit and reads the footnote, because the
-   signal lives in the footnote, not in any structured field.
-3. Throws out the fakes. This is the actual work. It removes routine board grants,
-   whole-board same-day sweeps, dispositions, and the most common trap of all:
-   cash-settled "phantom" units that read like equity but pay out in cash.
-4. Keeps only genuine, elective, share-settled elections by a director or officer,
-   then surfaces the ones that matter most: individual elections into a falling
-   stock, the version that costs the insider something to make.
+1. **Discover.** EDGAR full-text search (efts.sec.gov) for Form 4 footnotes containing
+   four election phrases → **185 raw hits → 160 unique accessions.** (`process/discovery-phrases.md`)
+2. **Read every footnote.** Downloaded all 160 raw Form 4 XML and read the footnote text,
+   not just the structured fields — the signal lives in the footnote. (`filings/`)
+3. **Filter.** Kept only genuine elections of equity-for-cash by a director/officer that
+   settle in real stock/units. Killed cash-settled "phantom" units, routine grants,
+   options, withholding, 10b5-1 trades, merger/award-vehicle/deferral/dividend elections.
+   (`process/filter-rules.md`)
+4. **Result: 125 surviving filings across 35 issuers.** Valued the elective portion,
+   pulled 90-day price change, classified board sweeps vs. individual elections vs.
+   multi-date clusters. (`data/`)
 
-## What the screen found (trailing 30 days)
+## Headline findings
 
-- ~160 filings discovered
-- 125 verified genuine elections
-- Of those, the large majority are whole-board sweeps (routine, one corporate
-  event each). Only ~24 are genuine individual elections.
-- 0 of the 125 were paired with an open-market purchase. There is no hard
-  confirmation anywhere in this batch. The signal is soft on its own.
+- **No open-market confirmation anywhere.** **Zero** of the 125 filings carried a code-P
+  open-market purchase. A cash-to-equity election is a soft signal to begin with; with no
+  buy alongside, treat it as a mild tell, not a conviction buy.
+- **Most volume is routine.** 95 of the 125 rows are **board sweeps** — whole boards
+  taking fees in stock under standing programs (ADSK, CUBI, BLDR, GD, MS, …). Collapsed to
+  one event each. (`data/board-sweeps.csv`)
+- **30 rows are genuine individual elections** across 17 issuers. (`data/individual-elections.csv`)
+- **The interesting shape — elective, real stock, not a sweep, stock DOWN over 90 days:**
+  | Ticker | Insider | Role | ~Elective $ | 90d | Accession |
+  |---|---|---|---|---|---|
+  | AGEN | Garo H. Armen | Chair & CEO | $32.5k (2 pds) | −10.6% | `0001193125-26-252375`, `0001193125-26-271889` |
+  | IMNN | Tardugno + Lindborg | Officers | $23.4k | −34.2% | `0001437749-26-020037`, `…-019994`, `…-021484`, `…-021444` |
+  | BDTX | Behbahani + Raman | Directors | $28.0k | −15.8% | `0001193125-26-277553`, `0002018686-26-000008` |
+  | DLX | Cummins + Brown | Directors | $55.0k | −11.3% | `0000027996-26-000104`, `…-000106` |
+  | SLVM | David D. Petratis | Director | $245k | −2.0% | `0001299140-26-000010` |
+- **Genuine multi-date cluster:** **IMNN** — CEO and Executive Chairman both took base
+  salary in stock on two different dates (2026-06-05 and 2026-06-18).
+- **The single most interesting election: AGEN / Garo Armen** — Chairman *and* CEO,
+  footnote says the swap is "at his request," applied to his salary, into a falling stock.
+  **But** a hand review of the Agenus proxy shows the company uses equity-for-cash as a
+  going-concern cash-conservation lever — read the conviction signal against that.
+  See `verification/manual-checks.md`.
 
-The honest read: this is a tool for generating questions worth chasing, not
-answers worth trading. A cash-to-equity election is weaker than an open-market
-buy. It points you at a short list of names, then hands you back to your own
-judgment.
+## Repo layout
 
-## Repo structure
+```
+process/        How the screen works — read this to follow or reproduce it.
+  00-original-prompt.md    The verbatim brief that defined the screen.
+  discovery-phrases.md     The four phrases, the API, the raw counts.
+  filter-rules.md          Inclusion checklist + false-positive kill rules, plain English.
+  pipeline/                The actual scripts that ran the screen (bash + python).
+data/           The results.
+  survivors.csv            All 125 surviving filings, one row per insider-filing.
+  individual-elections.csv 30 genuine non-sweep elections (incl. the IMNN cluster).
+  board-sweeps.csv         95 routine board-sweep rows, kept but separated.
+  survivors_full.json      Full per-filing detail: footnotes, values, EDGAR links.
+  prices.csv               Current + ~90-day-prior close and % change per ticker.
+  run-report.md            The narrative report from the run.
+  cash-settled-examples.md Verbatim cash-settled "phantom trap" footnotes (excluded set).
+  intermediate/            The full machine trail: raw API responses, parsed XML,
+                           dedupe, footnote digest, classification artifacts.
+filings/        All 160 raw Form 4 XML, as-pulled, so any claim can be checked
+                against the original.
+verification/
+  manual-checks.md         Human-verified steps (Agenus proxy, Enviri cash-settled,
+                           and a machine-vs-manual provenance table). NOT machine output.
+```
 
-- `/process` — how the screen works: the full plain-English prompt, the discovery
-  phrases, and the filter rules (inclusion checklist + false-positive controls).
-- `/data` — the full survivor list, with genuine individual elections separated
-  from board sweeps.
-- `/filings` — the raw Form 4 XML, kept as-is so any claim can be checked against
-  the original.
-- `/verification` — the manual checks done by hand, outside the automated run.
-  See below. This is the most important folder.
+## How to reproduce
+The scripts in `process/pipeline/` ran in this order: `download.sh` (fetch the 160 XML) →
+`parse.py` → `candidates.py` → `classify.py` / `classify2.py` → `digest.py` →
+`prices.sh` → `assemble.py`. They require `bash`, `python3`, `jq`, and `curl`, and a
+descriptive EDGAR `User-Agent`. EDGAR rate-limits aggressively — run requests sequentially.
 
-## Machine vs. human
+## Honest limits
+- A cash-to-equity election is **softer than an open-market buy**, and none here had a buy
+  alongside.
+- Small-cap stock-for-salary (AGEN, IMNN, BDTX) can be **cash conservation by the company**
+  rather than insider conviction — the Agenus proxy makes that explicit.
+- **Market cap is omitted** — not in the filings, not retrievable from a citable free
+  source, so not guessed.
+- Discovery is keyed on election language, so pure phantom-stock filings that never use
+  election wording are out of scope by construction.
 
-The point of this project is that the machine does the reading and the human does
-the judging. The repo keeps those honest and separate.
-
-The automated run produced the survivor data, the footnotes, and the price
-changes. But the decisive forensic steps were done by hand, by opening primary
-filings the screen could not interpret:
-
-- The Agenus (AGEN) case. The Form 4s show the CEO electing salary in stock into
-  a falling price, which looks like conviction. Opening the company's proxy by
-  hand reveals Agenus lists "equity-in-lieu-of-cash compensation" as a way to cut
-  cash burn, alongside a going-concern disclosure. The clean signal had a second,
-  equally valid reading the footnote could never show. That check is in
-  `/verification`.
-- The Enviri (NVRI) trap. The security is titled "Deferred Stock Unit (Cash)" and
-  the footnote says it pays "the value, in cash, of 1 share." Verified against the
-  raw filing as the textbook example of the phantom trap.
-
-Every figure in `/verification` points to a primary filing with its accession
-number or EDGAR link.
-
-## Disclaimer
-
-This is research and educational material, not investment advice, and not a
-recommendation to buy or sell any security. No price targets. It covers US-listed
-securities and reflects personal views only. AI tools were used in the analysis,
-and that use is disclosed. Conduct your own due diligence and consult a licensed
-advisor before acting. All figures are as-filed and believed accurate as of the
-filing dates; amendments may follow.
-
----
-
-Built with Claude Code, against SEC EDGAR. Part of the Alpha with AI proof series.
+*No price targets. No investment advice. Every number retraces to a filing.*
