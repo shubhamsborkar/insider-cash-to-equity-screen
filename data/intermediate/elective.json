@@ -1,0 +1,3014 @@
+[
+ {
+  "adsh": "0000027996-26-000104",
+  "ticker": "DLX",
+  "issuer": "DELUXE CORP",
+  "owner": "Cummins Hugh S. III",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-15"
+  ],
+  "elective_shares": 1205.0,
+  "elective_value_filed": 27522.2,
+  "value_known": true,
+  "grant_prices": [
+   22.84
+  ],
+  "rows": [
+   {
+    "sh": 1205.0,
+    "pr": 22.84,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0000027996-26-000106",
+  "ticker": "DLX",
+  "issuer": "DELUXE CORP",
+  "owner": "Brown Angela L",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-15"
+  ],
+  "elective_shares": 1205.0,
+  "elective_value_filed": 27522.2,
+  "value_known": true,
+  "grant_prices": [
+   22.84
+  ],
+  "rows": [
+   {
+    "sh": 1205.0,
+    "pr": 22.84,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0000059478-26-000057",
+  "ticker": "LLY",
+  "issuer": "ELI LILLY & Co",
+  "owner": "Fyrwald J Erik",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-15"
+  ],
+  "elective_shares": 8.78,
+  "elective_value_filed": 9916.71,
+  "value_known": true,
+  "grant_prices": [
+   1129.35
+  ],
+  "rows": [
+   {
+    "sh": 8.7809,
+    "pr": 1129.35,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0000059478-26-000059",
+  "ticker": "LLY",
+  "issuer": "ELI LILLY & Co",
+  "owner": "LUCIANO JUAN R",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-15"
+  ],
+  "elective_shares": 14.09,
+  "elective_value_filed": 15916.72,
+  "value_known": true,
+  "grant_prices": [
+   1129.35
+  ],
+  "rows": [
+   {
+    "sh": 14.0937,
+    "pr": 1129.35,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0000354963-26-000185",
+  "ticker": "SHEN",
+  "issuer": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
+  "owner": "BARNES VICTOR CHRISTOPHER",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-01"
+  ],
+  "elective_shares": 51.2,
+  "elective_value_filed": 816.67,
+  "value_known": true,
+  "grant_prices": [
+   15.95
+  ],
+  "rows": [
+   {
+    "sh": 51.2019,
+    "pr": 15.95,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0000354963-26-000186",
+  "ticker": "SHEN",
+  "issuer": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
+  "owner": "Beckett Thomas",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-01"
+  ],
+  "elective_shares": 25.08,
+  "elective_value_filed": 400.0,
+  "value_known": true,
+  "grant_prices": [
+   15.95
+  ],
+  "rows": [
+   {
+    "sh": 25.0784,
+    "pr": 15.95,
+    "sec": "Common",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0000354963-26-000187",
+  "ticker": "SHEN",
+  "issuer": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
+  "owner": "Koontz Richard L Jr",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-01"
+  ],
+  "elective_shares": 31.35,
+  "elective_value_filed": 500.0,
+  "value_known": true,
+  "grant_prices": [
+   15.95
+  ],
+  "rows": [
+   {
+    "sh": 31.348,
+    "pr": 15.95,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0000354963-26-000188",
+  "ticker": "SHEN",
+  "issuer": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
+  "owner": "QUAGLIO KENNETH L",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-01"
+  ],
+  "elective_shares": 26.12,
+  "elective_value_filed": 416.67,
+  "value_known": true,
+  "grant_prices": [
+   15.95
+  ],
+  "rows": [
+   {
+    "sh": 26.1235,
+    "pr": 15.95,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0000354963-26-000189",
+  "ticker": "SHEN",
+  "issuer": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
+  "owner": "Rhymes Michael Anthony",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-01"
+  ],
+  "elective_shares": 31.35,
+  "elective_value_filed": 500.0,
+  "value_known": true,
+  "grant_prices": [
+   15.95
+  ],
+  "rows": [
+   {
+    "sh": 31.348,
+    "pr": 15.95,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0000354963-26-000190",
+  "ticker": "SHEN",
+  "issuer": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
+  "owner": "SCHULTZ LEIGH ANN",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-01"
+  ],
+  "elective_shares": 41.8,
+  "elective_value_filed": 666.67,
+  "value_known": true,
+  "grant_prices": [
+   15.95
+  ],
+  "rows": [
+   {
+    "sh": 41.7975,
+    "pr": 15.95,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0000750686-26-000041",
+  "ticker": "CAC",
+  "issuer": "CAMDEN NATIONAL CORP",
+  "owner": "Haynes Larry K",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-18"
+  ],
+  "elective_shares": 279.0,
+  "elective_value_filed": 14365.71,
+  "value_known": true,
+  "grant_prices": [
+   51.49
+  ],
+  "rows": [
+   {
+    "sh": 279.0,
+    "pr": 51.49,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0000750686-26-000042",
+  "ticker": "CAC",
+  "issuer": "CAMDEN NATIONAL CORP",
+  "owner": "Soderberg Carl John",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-18"
+  ],
+  "elective_shares": 308.0,
+  "elective_value_filed": 15858.92,
+  "value_known": true,
+  "grant_prices": [
+   51.49
+  ],
+  "rows": [
+   {
+    "sh": 308.0,
+    "pr": 51.49,
+    "sec": "Common",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0000750686-26-000043",
+  "ticker": "CAC",
+  "issuer": "CAMDEN NATIONAL CORP",
+  "owner": "Hatfield Rebecca",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-18"
+  ],
+  "elective_shares": 170.0,
+  "elective_value_filed": 8753.3,
+  "value_known": true,
+  "grant_prices": [
+   51.49
+  ],
+  "rows": [
+   {
+    "sh": 170.0,
+    "pr": 51.49,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0000750686-26-000044",
+  "ticker": "CAC",
+  "issuer": "CAMDEN NATIONAL CORP",
+  "owner": "Maxwell Raina",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-18"
+  ],
+  "elective_shares": 279.0,
+  "elective_value_filed": 14365.71,
+  "value_known": true,
+  "grant_prices": [
+   51.49
+  ],
+  "rows": [
+   {
+    "sh": 279.0,
+    "pr": 51.49,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0000769397-26-000052",
+  "ticker": "ADSK",
+  "issuer": "Autodesk, Inc.",
+  "owner": "Smith Stacy J",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-17"
+  ],
+  "elective_shares": 1087.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 1087.0,
+    "pr": 0.0,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0000858877-26-000100",
+  "ticker": "CSCO",
+  "issuer": "CISCO SYSTEMS, INC.",
+  "owner": "Weil Kevin",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-15"
+  ],
+  "elective_shares": 251.0,
+  "elective_value_filed": 30162.67,
+  "value_known": true,
+  "grant_prices": [
+   120.17
+  ],
+  "rows": [
+   {
+    "sh": 251.0,
+    "pr": 120.17,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0000914190-26-000098",
+  "ticker": "NEPH",
+  "issuer": "NEPHROS INC",
+  "owner": "Amron Arthur H",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-05-11"
+  ],
+  "elective_shares": 3574.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 3574.0,
+    "pr": 0.0,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0000947871-26-000623",
+  "ticker": "AMBP",
+  "issuer": "Ardagh Metal Packaging S.A.",
+  "owner": "Blunt Abigail",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-15"
+  ],
+  "elective_shares": 6859.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 6859.0,
+    "pr": 0,
+    "sec": "Ordinary Shares",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001104659-26-068948",
+  "ticker": "XELB",
+  "issuer": "XCel Brands, Inc.",
+  "owner": "D LOREN ROBERT W",
+  "role": "Dir+Off",
+  "title": "CEO and Chairman",
+  "dates": [
+   "2026-05-29"
+  ],
+  "elective_shares": 13617.0,
+  "elective_value_filed": 29004.21,
+  "value_known": true,
+  "grant_prices": [
+   2.13
+  ],
+  "rows": [
+   {
+    "sh": 13617.0,
+    "pr": 2.13,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001104659-26-069576",
+  "ticker": "TMC",
+  "issuer": "TMC the metals Co Inc.",
+  "owner": "Greig Andrew Carlyle",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-05-29"
+  ],
+  "elective_shares": 20292.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 20292.0,
+    "pr": 0.0,
+    "sec": "Common Shares",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001104659-26-069577",
+  "ticker": "TMC",
+  "issuer": "TMC the metals Co Inc.",
+  "owner": "Hall Andrew",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-05-29"
+  ],
+  "elective_shares": 18263.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 18263.0,
+    "pr": 0.0,
+    "sec": "Common Shares",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001104659-26-069579",
+  "ticker": "TMC",
+  "issuer": "TMC the metals Co Inc.",
+  "owner": "Karkar Andrei",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-05-29"
+  ],
+  "elective_shares": 17857.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 17857.0,
+    "pr": 0.0,
+    "sec": "Common Shares",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001104659-26-069581",
+  "ticker": "TMC",
+  "issuer": "TMC the metals Co Inc.",
+  "owner": "Khama Sheila",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-05-29"
+  ],
+  "elective_shares": 17316.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 17316.0,
+    "pr": 0.0,
+    "sec": "Common Shares",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001104659-26-069583",
+  "ticker": "TMC",
+  "issuer": "TMC the metals Co Inc.",
+  "owner": "Madsbjerg Christian",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-05-29"
+  ],
+  "elective_shares": 19075.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 19075.0,
+    "pr": 0.0,
+    "sec": "Common Shares",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001104659-26-078381",
+  "ticker": "PPTA",
+  "issuer": "PERPETUA RESOURCES CORP.",
+  "owner": "Cole Andrew Phillip",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-25"
+  ],
+  "elective_shares": 828.0,
+  "elective_value_filed": 17487.36,
+  "value_known": true,
+  "grant_prices": [
+   21.12
+  ],
+  "rows": [
+   {
+    "sh": 828.0,
+    "pr": 21.12,
+    "sec": "Deferred Share Units",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001104659-26-078382",
+  "ticker": "PPTA",
+  "issuer": "PERPETUA RESOURCES CORP.",
+  "owner": "Sternhell Alexander McLeod",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-25"
+  ],
+  "elective_shares": 828.0,
+  "elective_value_filed": 17487.36,
+  "value_known": true,
+  "grant_prices": [
+   21.12
+  ],
+  "rows": [
+   {
+    "sh": 828.0,
+    "pr": 21.12,
+    "sec": "Deferred Share Units",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001104659-26-078383",
+  "ticker": "PPTA",
+  "issuer": "PERPETUA RESOURCES CORP.",
+  "owner": "Dean Robert Alan",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-25"
+  ],
+  "elective_shares": 1006.0,
+  "elective_value_filed": 21246.72,
+  "value_known": true,
+  "grant_prices": [
+   21.12
+  ],
+  "rows": [
+   {
+    "sh": 1006.0,
+    "pr": 21.12,
+    "sec": "Deferred Share Units",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001104659-26-078384",
+  "ticker": "PPTA",
+  "issuer": "PERPETUA RESOURCES CORP.",
+  "owner": "Haddock Richie Darrin",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-25"
+  ],
+  "elective_shares": 828.0,
+  "elective_value_filed": 17487.36,
+  "value_known": true,
+  "grant_prices": [
+   21.12
+  ],
+  "rows": [
+   {
+    "sh": 828.0,
+    "pr": 21.12,
+    "sec": "Deferred Share Units",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001104659-26-078385",
+  "ticker": "PPTA",
+  "issuer": "PERPETUA RESOURCES CORP.",
+  "owner": "Malmen Jeffrey L",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-25"
+  ],
+  "elective_shares": 828.0,
+  "elective_value_filed": 17487.36,
+  "value_known": true,
+  "grant_prices": [
+   21.12
+  ],
+  "rows": [
+   {
+    "sh": 828.0,
+    "pr": 21.12,
+    "sec": "Deferred Share Units",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001116268-26-000013",
+  "ticker": "CSCO",
+  "issuer": "CISCO SYSTEMS, INC.",
+  "owner": "JOHNSON KRISTINA M",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-15"
+  ],
+  "elective_shares": 351.0,
+  "elective_value_filed": 42179.67,
+  "value_known": true,
+  "grant_prices": [
+   120.17
+  ],
+  "rows": [
+   {
+    "sh": 351.0,
+    "pr": 120.17,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001180770-26-000003",
+  "ticker": "CAI",
+  "issuer": "Caris Life Sciences, Inc.",
+  "owner": "POSTE GEORGE",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-05-29"
+  ],
+  "elective_shares": 1600.0,
+  "elective_value_filed": 24992.0,
+  "value_known": true,
+  "grant_prices": [
+   15.62
+  ],
+  "rows": [
+   {
+    "sh": 1600.0,
+    "pr": 15.62,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001182051-26-000008",
+  "ticker": "GD",
+  "issuer": "GENERAL DYNAMICS CORP",
+  "owner": "DE LEON RUDY F",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-16"
+  ],
+  "elective_shares": 52.0,
+  "elective_value_filed": 18712.2,
+  "value_known": true,
+  "grant_prices": [
+   359.85
+  ],
+  "rows": [
+   {
+    "sh": 52.0,
+    "pr": 359.85,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001193125-26-252375",
+  "ticker": "AGEN",
+  "issuer": "AGENUS INC",
+  "owner": "ARMEN GARO H",
+  "role": "Dir+Off",
+  "title": "See Remarks",
+  "dates": [
+   "2026-05-29"
+  ],
+  "elective_shares": 4644.0,
+  "elective_value_filed": 16254.0,
+  "value_known": true,
+  "grant_prices": [
+   3.5
+  ],
+  "rows": [
+   {
+    "sh": 4644.0,
+    "pr": 3.5,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001193125-26-253451",
+  "ticker": "BLDR",
+  "issuer": "Builders FirstSource, Inc.",
+  "owner": "Steinke Craig Arthur",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-01"
+  ],
+  "elective_shares": 491.0,
+  "elective_value_filed": 37443.66,
+  "value_known": true,
+  "grant_prices": [
+   76.26
+  ],
+  "rows": [
+   {
+    "sh": 491.0,
+    "pr": 76.26,
+    "sec": "Common Stock, par value $0.01 per share",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001193125-26-253452",
+  "ticker": "BLDR",
+  "issuer": "Builders FirstSource, Inc.",
+  "owner": "Charles Dirkson R",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-01"
+  ],
+  "elective_shares": 409.0,
+  "elective_value_filed": 31190.34,
+  "value_known": true,
+  "grant_prices": [
+   76.26
+  ],
+  "rows": [
+   {
+    "sh": 409.0,
+    "pr": 76.26,
+    "sec": "Common Stock, par value $0.01 per share",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001193125-26-253455",
+  "ticker": "BLDR",
+  "issuer": "Builders FirstSource, Inc.",
+  "owner": "Hayes William B",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-01"
+  ],
+  "elective_shares": 508.0,
+  "elective_value_filed": 38740.08,
+  "value_known": true,
+  "grant_prices": [
+   76.26
+  ],
+  "rows": [
+   {
+    "sh": 508.0,
+    "pr": 76.26,
+    "sec": "Common Stock, par value $0.01 per share",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001193125-26-253456",
+  "ticker": "BLDR",
+  "issuer": "Builders FirstSource, Inc.",
+  "owner": "CHRISTOPHE CLEVELAND A",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-01"
+  ],
+  "elective_shares": 491.0,
+  "elective_value_filed": 37443.66,
+  "value_known": true,
+  "grant_prices": [
+   76.26
+  ],
+  "rows": [
+   {
+    "sh": 491.0,
+    "pr": 76.26,
+    "sec": "Common Stock, par value $0.01 per share",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001193125-26-253457",
+  "ticker": "BLDR",
+  "issuer": "Builders FirstSource, Inc.",
+  "owner": "OLEARY JAMES",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-01"
+  ],
+  "elective_shares": 491.0,
+  "elective_value_filed": 37443.66,
+  "value_known": true,
+  "grant_prices": [
+   76.26
+  ],
+  "rows": [
+   {
+    "sh": 491.0,
+    "pr": 76.26,
+    "sec": "Common Stock, par value $0.01 per share",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001193125-26-253458",
+  "ticker": "BLDR",
+  "issuer": "Builders FirstSource, Inc.",
+  "owner": "Renz Maria",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-01"
+  ],
+  "elective_shares": 426.0,
+  "elective_value_filed": 32486.76,
+  "value_known": true,
+  "grant_prices": [
+   76.26
+  ],
+  "rows": [
+   {
+    "sh": 426.0,
+    "pr": 76.26,
+    "sec": "Common Stock, par value $0.01 per share",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001193125-26-253460",
+  "ticker": "BLDR",
+  "issuer": "Builders FirstSource, Inc.",
+  "owner": "Boydston Cory Jacobs",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-01"
+  ],
+  "elective_shares": 409.0,
+  "elective_value_filed": 31190.34,
+  "value_known": true,
+  "grant_prices": [
+   76.26
+  ],
+  "rows": [
+   {
+    "sh": 409.0,
+    "pr": 76.26,
+    "sec": "Common Stock, par value $0.01 per share",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001193125-26-253461",
+  "ticker": "INKT",
+  "issuer": "MiNK Therapeutics, Inc.",
+  "owner": "WIINBERG ULF",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-03-02",
+   "2026-06-01"
+  ],
+  "elective_shares": 1131.0,
+  "elective_value_filed": 14001.78,
+  "value_known": true,
+  "grant_prices": [
+   12.38
+  ],
+  "rows": [
+   {
+    "sh": 1131.0,
+    "pr": 12.38,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001193125-26-253464",
+  "ticker": "BLDR",
+  "issuer": "Builders FirstSource, Inc.",
+  "owner": "LEVY PAUL S",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-01"
+  ],
+  "elective_shares": 1049.0,
+  "elective_value_filed": 79996.74,
+  "value_known": true,
+  "grant_prices": [
+   76.26
+  ],
+  "rows": [
+   {
+    "sh": 1049.0,
+    "pr": 76.26,
+    "sec": "Common Stock, par value $0.01 per share",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001193125-26-253465",
+  "ticker": "BLDR",
+  "issuer": "Builders FirstSource, Inc.",
+  "owner": "ALEXANDER MARK A",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-01"
+  ],
+  "elective_shares": 409.0,
+  "elective_value_filed": 31190.34,
+  "value_known": true,
+  "grant_prices": [
+   76.26
+  ],
+  "rows": [
+   {
+    "sh": 409.0,
+    "pr": 76.26,
+    "sec": "Common Stock, par value $0.01 per share",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001193125-26-253466",
+  "ticker": "INKT",
+  "issuer": "MiNK Therapeutics, Inc.",
+  "owner": "Behner Peter",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-03-02",
+   "2026-06-01"
+  ],
+  "elective_shares": 1313.0,
+  "elective_value_filed": 16254.94,
+  "value_known": true,
+  "grant_prices": [
+   12.38
+  ],
+  "rows": [
+   {
+    "sh": 1313.0,
+    "pr": 12.38,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001193125-26-253468",
+  "ticker": "INKT",
+  "issuer": "MiNK Therapeutics, Inc.",
+  "owner": "Corvese Brian",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-03-02",
+   "2026-06-01"
+  ],
+  "elective_shares": 1444.0,
+  "elective_value_filed": 17876.72,
+  "value_known": true,
+  "grant_prices": [
+   12.38
+  ],
+  "rows": [
+   {
+    "sh": 1444.0,
+    "pr": 12.38,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001193125-26-253470",
+  "ticker": "INKT",
+  "issuer": "MiNK Therapeutics, Inc.",
+  "owner": "Ryan Barbara",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-03-02",
+   "2026-06-01"
+  ],
+  "elective_shares": 1434.0,
+  "elective_value_filed": 17752.92,
+  "value_known": true,
+  "grant_prices": [
+   12.38
+  ],
+  "rows": [
+   {
+    "sh": 1434.0,
+    "pr": 12.38,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001193125-26-253474",
+  "ticker": "INKT",
+  "issuer": "MiNK Therapeutics, Inc.",
+  "owner": "Holcomb John Bradley",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-03-02",
+   "2026-06-01"
+  ],
+  "elective_shares": 1091.0,
+  "elective_value_filed": 13506.58,
+  "value_known": true,
+  "grant_prices": [
+   12.38
+  ],
+  "rows": [
+   {
+    "sh": 1091.0,
+    "pr": 12.38,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001193125-26-257364",
+  "ticker": "AAP",
+  "issuer": "ADVANCE AUTO PARTS INC",
+  "owner": "LEE EUGENE I JR",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-02"
+  ],
+  "elective_shares": 2601.91,
+  "elective_value_filed": 150000.0,
+  "value_known": true,
+  "grant_prices": [
+   57.65
+  ],
+  "rows": [
+   {
+    "sh": 2601.908,
+    "pr": 57.65,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001193125-26-257378",
+  "ticker": "AAP",
+  "issuer": "ADVANCE AUTO PARTS INC",
+  "owner": "Seboldt Thomas W",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-02"
+  ],
+  "elective_shares": 86.73,
+  "elective_value_filed": 4999.98,
+  "value_known": true,
+  "grant_prices": [
+   57.65
+  ],
+  "rows": [
+   {
+    "sh": 86.73,
+    "pr": 57.65,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001193125-26-260158",
+  "ticker": "IHRT",
+  "issuer": "iHeartMedia, Inc.",
+  "owner": "MILLARD ROBERT B",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-04"
+  ],
+  "elective_shares": 35629.0,
+  "elective_value_filed": 149998.09,
+  "value_known": true,
+  "grant_prices": [
+   4.21
+  ],
+  "rows": [
+   {
+    "sh": 35629.0,
+    "pr": 4.21,
+    "sec": "Class A Common Stock, par value $0.001 per share",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001193125-26-260160",
+  "ticker": "IHRT",
+  "issuer": "iHeartMedia, Inc.",
+  "owner": "Englebardt Samuel Eli",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-04"
+  ],
+  "elective_shares": 35629.0,
+  "elective_value_filed": 149998.09,
+  "value_known": true,
+  "grant_prices": [
+   4.21
+  ],
+  "rows": [
+   {
+    "sh": 35629.0,
+    "pr": 4.21,
+    "sec": "Class A Common Stock, par value $0.001 per share",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001193125-26-271889",
+  "ticker": "AGEN",
+  "issuer": "AGENUS INC",
+  "owner": "ARMEN GARO H",
+  "role": "Dir+Off",
+  "title": "See Remarks",
+  "dates": [
+   "2026-06-12"
+  ],
+  "elective_shares": 4925.0,
+  "elective_value_filed": 16252.5,
+  "value_known": true,
+  "grant_prices": [
+   3.3
+  ],
+  "rows": [
+   {
+    "sh": 4925.0,
+    "pr": 3.3,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001193125-26-277553",
+  "ticker": "BDTX",
+  "issuer": "Black Diamond Therapeutics, Inc.",
+  "owner": "Behbahani Ali",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-19"
+  ],
+  "elective_shares": 8961.0,
+  "elective_value_filed": 14875.26,
+  "value_known": true,
+  "grant_prices": [
+   1.66
+  ],
+  "rows": [
+   {
+    "sh": 8961.0,
+    "pr": 1.66,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001194106-26-000007",
+  "ticker": "CROX",
+  "issuer": "Crocs, Inc.",
+  "owner": "SMACH THOMAS J",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-09"
+  ],
+  "elective_shares": 1291.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 1291.0,
+    "pr": 0.0,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001197000-26-000006",
+  "ticker": "ADSK",
+  "issuer": "Autodesk, Inc.",
+  "owner": "CAHILL JOHN T",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-17"
+  ],
+  "elective_shares": 621.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 621.0,
+    "pr": 0.0,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001214606-26-000009",
+  "ticker": "YOU",
+  "issuer": "Clear Secure, Inc.",
+  "owner": "BOYD JEFFERY H",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-10"
+  ],
+  "elective_shares": 1442.0,
+  "elective_value_filed": 82525.66,
+  "value_known": true,
+  "grant_prices": [
+   57.23
+  ],
+  "rows": [
+   {
+    "sh": 1442.0,
+    "pr": 57.23,
+    "sec": "Restricted Stock Units",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001214659-26-007695",
+  "ticker": "PK",
+  "issuer": "Park Hotels & Resorts Inc.",
+  "owner": "Bedient Patricia M",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-23"
+  ],
+  "elective_shares": 1986.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 1986.0,
+    "pr": 0.0,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001214659-26-007696",
+  "ticker": "PK",
+  "issuer": "Park Hotels & Resorts Inc.",
+  "owner": "NATELLI THOMAS A",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-23"
+  ],
+  "elective_shares": 1814.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 1814.0,
+    "pr": 0.0,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001214659-26-007697",
+  "ticker": "PK",
+  "issuer": "Park Hotels & Resorts Inc.",
+  "owner": "NAUGHTON TIMOTHY J",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-23"
+  ],
+  "elective_shares": 1814.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 1814.0,
+    "pr": 0.0,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001214659-26-007709",
+  "ticker": "RSVR",
+  "issuer": "Reservoir Media, Inc.",
+  "owner": "ER Reservoir LLC",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-22"
+  ],
+  "elective_shares": 492.0,
+  "elective_value_filed": 4993.8,
+  "value_known": true,
+  "grant_prices": [
+   10.15
+  ],
+  "rows": [
+   {
+    "sh": 492.0,
+    "pr": 10.15,
+    "sec": "Common stock, $0.0001 par value",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001218163-26-000003",
+  "ticker": "CROX",
+  "issuer": "Crocs, Inc.",
+  "owner": "TREFF DOUGLAS J",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-09"
+  ],
+  "elective_shares": 1291.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 1291.0,
+    "pr": 0.0,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001219871-26-000003",
+  "ticker": "ARDX",
+  "issuer": "ARDELYX, INC.",
+  "owner": "MOTT DAVID M",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-16"
+  ],
+  "elective_shares": 20282.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 20282.0,
+    "pr": 0.0,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001222650-26-000002",
+  "ticker": "CUBI",
+  "issuer": "Customers Bancorp, Inc.",
+  "owner": "ROTHERMEL DANIEL K",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-15"
+  ],
+  "elective_shares": 385.0,
+  "elective_value_filed": 30110.85,
+  "value_known": true,
+  "grant_prices": [
+   78.21
+  ],
+  "rows": [
+   {
+    "sh": 385.0,
+    "pr": 78.21,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001225208-26-005684",
+  "ticker": "ECG",
+  "issuer": "Everus Construction Group, Inc.",
+  "owner": "Ryan Edward A",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-05-29"
+  ],
+  "elective_shares": 100.0,
+  "elective_value_filed": 15472.0,
+  "value_known": true,
+  "grant_prices": [
+   154.72
+  ],
+  "rows": [
+   {
+    "sh": 100.0,
+    "pr": 154.72,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001225208-26-005685",
+  "ticker": "ECG",
+  "issuer": "Everus Construction Group, Inc.",
+  "owner": "Rosenthal Dale",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-05-29"
+  ],
+  "elective_shares": 169.0,
+  "elective_value_filed": 26147.68,
+  "value_known": true,
+  "grant_prices": [
+   154.72
+  ],
+  "rows": [
+   {
+    "sh": 169.0,
+    "pr": 154.72,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001228718-26-000004",
+  "ticker": "ADSK",
+  "issuer": "Autodesk, Inc.",
+  "owner": "Epstein Jeff",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-17"
+  ],
+  "elective_shares": 466.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 466.0,
+    "pr": 0.0,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001240076-26-000002",
+  "ticker": "CUBI",
+  "issuer": "Customers Bancorp, Inc.",
+  "owner": "BUFORD ROBERT J",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-15"
+  ],
+  "elective_shares": 849.0,
+  "elective_value_filed": 66400.29,
+  "value_known": true,
+  "grant_prices": [
+   78.21
+  ],
+  "rows": [
+   {
+    "sh": 849.0,
+    "pr": 78.21,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001256358-26-000002",
+  "ticker": "ADSK",
+  "issuer": "Autodesk, Inc.",
+  "owner": "BLASING KAREN",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-17"
+  ],
+  "elective_shares": 590.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 590.0,
+    "pr": 0.0,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001262388-26-000012",
+  "ticker": "LLY",
+  "issuer": "ELI LILLY & Co",
+  "owner": "Sulzberger Gabrielle",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-15"
+  ],
+  "elective_shares": 4.39,
+  "elective_value_filed": 4958.3,
+  "value_known": true,
+  "grant_prices": [
+   1129.35
+  ],
+  "rows": [
+   {
+    "sh": 4.3904,
+    "pr": 1129.35,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001291937-26-000003",
+  "ticker": "ARDX",
+  "issuer": "ARDELYX, INC.",
+  "owner": "Bertrand William C JR",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-16"
+  ],
+  "elective_shares": 12345.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 12345.0,
+    "pr": 0.0,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001292209-26-000008",
+  "ticker": "GD",
+  "issuer": "GENERAL DYNAMICS CORP",
+  "owner": "Reynolds Catherine B",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-16"
+  ],
+  "elective_shares": 104.0,
+  "elective_value_filed": 37424.4,
+  "value_known": true,
+  "grant_prices": [
+   359.85
+  ],
+  "rows": [
+   {
+    "sh": 104.0,
+    "pr": 359.85,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001299140-26-000010",
+  "ticker": "SLVM",
+  "issuer": "Sylvamo Corp",
+  "owner": "PETRATIS DAVID D",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-05-15"
+  ],
+  "elective_shares": 10207.0,
+  "elective_value_filed": 395010.9,
+  "value_known": true,
+  "grant_prices": [
+   38.7
+  ],
+  "rows": [
+   {
+    "sh": 10207.0,
+    "pr": 38.7,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001310215-26-000011",
+  "ticker": "LLY",
+  "issuer": "ELI LILLY & Co",
+  "owner": "Alvarez Ralph",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-15"
+  ],
+  "elective_shares": 10.99,
+  "elective_value_filed": 12416.64,
+  "value_known": true,
+  "grant_prices": [
+   1129.35
+  ],
+  "rows": [
+   {
+    "sh": 10.9945,
+    "pr": 1129.35,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001319245-26-000010",
+  "ticker": "GD",
+  "issuer": "GENERAL DYNAMICS CORP",
+  "owner": "Schumacher Laura J",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-16"
+  ],
+  "elective_shares": 104.0,
+  "elective_value_filed": 37424.4,
+  "value_known": true,
+  "grant_prices": [
+   359.85
+  ],
+  "rows": [
+   {
+    "sh": 104.0,
+    "pr": 359.85,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001373147-26-000008",
+  "ticker": "GD",
+  "issuer": "GENERAL DYNAMICS CORP",
+  "owner": "Nye C Howard",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-16"
+  ],
+  "elective_shares": 52.0,
+  "elective_value_filed": 18712.2,
+  "value_known": true,
+  "grant_prices": [
+   359.85
+  ],
+  "rows": [
+   {
+    "sh": 52.0,
+    "pr": 359.85,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001385262-26-000015",
+  "ticker": "GD",
+  "issuer": "GENERAL DYNAMICS CORP",
+  "owner": "Stratton John G",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-16"
+  ],
+  "elective_shares": 104.0,
+  "elective_value_filed": 37424.4,
+  "value_known": true,
+  "grant_prices": [
+   359.85
+  ],
+  "rows": [
+   {
+    "sh": 104.0,
+    "pr": 359.85,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001403625-26-000009",
+  "ticker": "RYN",
+  "issuer": "RAYONIER INC",
+  "owner": "BASS KEITH E",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-05-29"
+  ],
+  "elective_shares": 1047.0,
+  "elective_value_filed": 21871.83,
+  "value_known": true,
+  "grant_prices": [
+   20.89
+  ],
+  "rows": [
+   {
+    "sh": 1047.0,
+    "pr": 20.89,
+    "sec": "Common Shares",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001437749-26-019032",
+  "ticker": "HSTM",
+  "issuer": "HEALTHSTREAM INC",
+  "owner": "GORDON FRANK",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-05-28"
+  ],
+  "elective_shares": 1482.0,
+  "elective_value_filed": 36501.66,
+  "value_known": true,
+  "grant_prices": [
+   24.63
+  ],
+  "rows": [
+   {
+    "sh": 1482.0,
+    "pr": 24.63,
+    "sec": "Common Stock Holding",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001437749-26-019994",
+  "ticker": "IMNN",
+  "issuer": "Imunon, Inc.",
+  "owner": "Lindborg Stacy",
+  "role": "Dir+Off",
+  "title": "President and CEO",
+  "dates": [
+   "2026-06-05"
+  ],
+  "elective_shares": 1593.0,
+  "elective_value_filed": 3281.58,
+  "value_known": true,
+  "grant_prices": [
+   2.06
+  ],
+  "rows": [
+   {
+    "sh": 1593.0,
+    "pr": 2.06,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001437749-26-020037",
+  "ticker": "IMNN",
+  "issuer": "Imunon, Inc.",
+  "owner": "Tardugno Michael H",
+  "role": "Dir+Off",
+  "title": "Executive Chairman of Board",
+  "dates": [
+   "2026-06-05"
+  ],
+  "elective_shares": 4089.0,
+  "elective_value_filed": 8423.34,
+  "value_known": true,
+  "grant_prices": [
+   2.06
+  ],
+  "rows": [
+   {
+    "sh": 4089.0,
+    "pr": 2.06,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001437749-26-021444",
+  "ticker": "IMNN",
+  "issuer": "Imunon, Inc.",
+  "owner": "Lindborg Stacy",
+  "role": "Dir+Off",
+  "title": "President and CEO",
+  "dates": [
+   "2026-06-18"
+  ],
+  "elective_shares": 1803.0,
+  "elective_value_filed": 3281.46,
+  "value_known": true,
+  "grant_prices": [
+   1.82
+  ],
+  "rows": [
+   {
+    "sh": 1803.0,
+    "pr": 1.82,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001437749-26-021484",
+  "ticker": "IMNN",
+  "issuer": "Imunon, Inc.",
+  "owner": "Tardugno Michael H",
+  "role": "Dir+Off",
+  "title": "Executive Chairman of Board",
+  "dates": [
+   "2026-06-18"
+  ],
+  "elective_shares": 4629.0,
+  "elective_value_filed": 8424.78,
+  "value_known": true,
+  "grant_prices": [
+   1.82
+  ],
+  "rows": [
+   {
+    "sh": 4629.0,
+    "pr": 1.82,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001492275-26-000009",
+  "ticker": "ADSK",
+  "issuer": "Autodesk, Inc.",
+  "owner": "Irving Blake",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-17"
+  ],
+  "elective_shares": 559.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 559.0,
+    "pr": 0.0,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001501578-26-000004",
+  "ticker": "RSVR",
+  "issuer": "Reservoir Media, Inc.",
+  "owner": "Taylor Ryan P.",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-22"
+  ],
+  "elective_shares": 492.0,
+  "elective_value_filed": 4993.8,
+  "value_known": true,
+  "grant_prices": [
+   10.15
+  ],
+  "rows": [
+   {
+    "sh": 492.0,
+    "pr": 10.15,
+    "sec": "Common stock, $0.0001 par value",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001527821-26-000002",
+  "ticker": "CUBI",
+  "issuer": "Customers Bancorp, Inc.",
+  "owner": "Way T Lawrence",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-15"
+  ],
+  "elective_shares": 849.0,
+  "elective_value_filed": 66400.29,
+  "value_known": true,
+  "grant_prices": [
+   78.21
+  ],
+  "rows": [
+   {
+    "sh": 849.0,
+    "pr": 78.21,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001528088-26-000002",
+  "ticker": "CUBI",
+  "issuer": "Customers Bancorp, Inc.",
+  "owner": "Zuckerman Steven J",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-15"
+  ],
+  "elective_shares": 958.0,
+  "elective_value_filed": 74925.18,
+  "value_known": true,
+  "grant_prices": [
+   78.21
+  ],
+  "rows": [
+   {
+    "sh": 958.0,
+    "pr": 78.21,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001560849-26-000005",
+  "ticker": "ADSK",
+  "issuer": "Autodesk, Inc.",
+  "owner": "rahim rami",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-17"
+  ],
+  "elective_shares": 466.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 466.0,
+    "pr": 0.0,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001583058-26-000008",
+  "ticker": "GD",
+  "issuer": "GENERAL DYNAMICS CORP",
+  "owner": "Mattis James N",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-16"
+  ],
+  "elective_shares": 58.0,
+  "elective_value_filed": 20871.3,
+  "value_known": true,
+  "grant_prices": [
+   359.85
+  ],
+  "rows": [
+   {
+    "sh": 58.0,
+    "pr": 359.85,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001590364-26-000068",
+  "ticker": "FTAI",
+  "issuer": "FTAI Aviation Ltd.",
+  "owner": "GOODWIN PAUL R",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-15"
+  ],
+  "elective_shares": 124.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 124.0,
+    "pr": 0.0,
+    "sec": "Ordinary Shares",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001590364-26-000069",
+  "ticker": "FTAI",
+  "issuer": "FTAI Aviation Ltd.",
+  "owner": "ROBINSON RAY M",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-15"
+  ],
+  "elective_shares": 119.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 119.0,
+    "pr": 0.0,
+    "sec": "Ordinary Shares",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001590364-26-000070",
+  "ticker": "FTAI",
+  "issuer": "FTAI Aviation Ltd.",
+  "owner": "TUCHMAN MARTIN",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-15"
+  ],
+  "elective_shares": 86.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 86.0,
+    "pr": 0.0,
+    "sec": "Ordinary Shares",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001602273-26-000010",
+  "ticker": "RSVR",
+  "issuer": "Reservoir Media, Inc.",
+  "owner": "Rothstein Adam",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-22"
+  ],
+  "elective_shares": 492.0,
+  "elective_value_filed": 4993.8,
+  "value_known": true,
+  "grant_prices": [
+   10.15
+  ],
+  "rows": [
+   {
+    "sh": 492.0,
+    "pr": 10.15,
+    "sec": "Common stock, $0.0001 par value",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001628280-26-039853",
+  "ticker": "MS",
+  "issuer": "MORGAN STANLEY",
+  "owner": "GLOCER THOMAS H",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-01"
+  ],
+  "elective_shares": 512.0,
+  "elective_value_filed": 107500.05,
+  "value_known": true,
+  "grant_prices": [
+   209.9594
+  ],
+  "rows": [
+   {
+    "sh": 512.004,
+    "pr": 209.9594,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001628280-26-039858",
+  "ticker": "MS",
+  "issuer": "MORGAN STANLEY",
+  "owner": "Peterson Douglas L.",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-01"
+  ],
+  "elective_shares": 273.86,
+  "elective_value_filed": 57499.9,
+  "value_known": true,
+  "grant_prices": [
+   209.9594
+  ],
+  "rows": [
+   {
+    "sh": 273.862,
+    "pr": 209.9594,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001628280-26-039859",
+  "ticker": "MS",
+  "issuer": "MORGAN STANLEY",
+  "owner": "TRAQUINA PERRY M",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-01"
+  ],
+  "elective_shares": 369.12,
+  "elective_value_filed": 77500.0,
+  "value_known": true,
+  "grant_prices": [
+   209.9594
+  ],
+  "rows": [
+   {
+    "sh": 369.119,
+    "pr": 209.9594,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001628280-26-039861",
+  "ticker": "MS",
+  "issuer": "MORGAN STANLEY",
+  "owner": "GOOD LYNN J",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-01"
+  ],
+  "elective_shares": 273.86,
+  "elective_value_filed": 57499.9,
+  "value_known": true,
+  "grant_prices": [
+   209.9594
+  ],
+  "rows": [
+   {
+    "sh": 273.862,
+    "pr": 209.9594,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001628280-26-039865",
+  "ticker": "MS",
+  "issuer": "MORGAN STANLEY",
+  "owner": "NALLY DENNIS M",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-01"
+  ],
+  "elective_shares": 345.3,
+  "elective_value_filed": 72499.82,
+  "value_known": true,
+  "grant_prices": [
+   209.9594
+  ],
+  "rows": [
+   {
+    "sh": 345.304,
+    "pr": 209.9594,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001628280-26-040777",
+  "ticker": "PSTL",
+  "issuer": "Postal Realty Trust, Inc.",
+  "owner": "LEFKOWITZ BARRY",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-02"
+  ],
+  "elective_shares": 4776.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 4776.0,
+    "pr": 0,
+    "sec": "LTIP Units",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001628280-26-040778",
+  "ticker": "PSTL",
+  "issuer": "Postal Realty Trust, Inc.",
+  "owner": "Donahoe Patrick R",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-02"
+  ],
+  "elective_shares": 9381.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 9381.0,
+    "pr": 0,
+    "sec": "LTIP Units",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001628280-26-040779",
+  "ticker": "PSTL",
+  "issuer": "Postal Realty Trust, Inc.",
+  "owner": "FEINGOLD ANTON",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-02"
+  ],
+  "elective_shares": 4093.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 4093.0,
+    "pr": 0,
+    "sec": "LTIP Units",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001628280-26-040780",
+  "ticker": "PSTL",
+  "issuer": "Postal Realty Trust, Inc.",
+  "owner": "Gural-Senders Jane",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-02"
+  ],
+  "elective_shares": 3070.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 3070.0,
+    "pr": 0,
+    "sec": "LTIP Units",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001662103-26-000002",
+  "ticker": "CAI",
+  "issuer": "Caris Life Sciences, Inc.",
+  "owner": "Knowles Jonathan Kenneth Charles",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-05-29"
+  ],
+  "elective_shares": 1600.0,
+  "elective_value_filed": 24992.0,
+  "value_known": true,
+  "grant_prices": [
+   15.62
+  ],
+  "rows": [
+   {
+    "sh": 1600.0,
+    "pr": 15.62,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001678725-26-000002",
+  "ticker": "CUBI",
+  "issuer": "Customers Bancorp, Inc.",
+  "owner": "Allon Andrea R.",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-15"
+  ],
+  "elective_shares": 625.0,
+  "elective_value_filed": 48881.25,
+  "value_known": true,
+  "grant_prices": [
+   78.21
+  ],
+  "rows": [
+   {
+    "sh": 625.0,
+    "pr": 78.21,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001769664-26-000008",
+  "ticker": "GD",
+  "issuer": "GENERAL DYNAMICS CORP",
+  "owner": "HANEY CECIL D",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-16"
+  ],
+  "elective_shares": 10.0,
+  "elective_value_filed": 3598.5,
+  "value_known": true,
+  "grant_prices": [
+   359.85
+  ],
+  "rows": [
+   {
+    "sh": 10.0,
+    "pr": 359.85,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001784171-26-000003",
+  "ticker": "CSCO",
+  "issuer": "CISCO SYSTEMS, INC.",
+  "owner": "Tessel Marianna",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-15"
+  ],
+  "elective_shares": 251.0,
+  "elective_value_filed": 30162.67,
+  "value_known": true,
+  "grant_prices": [
+   120.17
+  ],
+  "rows": [
+   {
+    "sh": 251.0,
+    "pr": 120.17,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001788899-26-000004",
+  "ticker": "ADSK",
+  "issuer": "Autodesk, Inc.",
+  "owner": "Howard Ayanna",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-17"
+  ],
+  "elective_shares": 466.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 466.0,
+    "pr": 0.0,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001822993-26-000085",
+  "ticker": "JXN",
+  "issuer": "Jackson Financial Inc.",
+  "owner": "Claffee Lily Fu",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-01"
+  ],
+  "elective_shares": 1167.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 1167.0,
+    "pr": 0.0,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001822993-26-000090",
+  "ticker": "JXN",
+  "issuer": "Jackson Financial Inc.",
+  "owner": "Lippert Martin J",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-01"
+  ],
+  "elective_shares": 1167.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 1167.0,
+    "pr": 0.0,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001822993-26-000092",
+  "ticker": "JXN",
+  "issuer": "Jackson Financial Inc.",
+  "owner": "STECHER ESTA E",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-01"
+  ],
+  "elective_shares": 1447.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 1447.0,
+    "pr": 0.0,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001839505-26-000002",
+  "ticker": "CUBI",
+  "issuer": "Customers Bancorp, Inc.",
+  "owner": "Gill Mike",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-15"
+  ],
+  "elective_shares": 625.0,
+  "elective_value_filed": 48881.25,
+  "value_known": true,
+  "grant_prices": [
+   78.21
+  ],
+  "rows": [
+   {
+    "sh": 625.0,
+    "pr": 78.21,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001847946-26-000008",
+  "ticker": "ADSK",
+  "issuer": "Autodesk, Inc.",
+  "owner": "Krishnan Ram R.",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-22"
+  ],
+  "elective_shares": 0.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 0.0,
+    "pr": 0.0,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001850671-26-000014",
+  "ticker": "YOU",
+  "issuer": "Clear Secure, Inc.",
+  "owner": "Hollister Kathryn A",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-10"
+  ],
+  "elective_shares": 1136.0,
+  "elective_value_filed": 65013.28,
+  "value_known": true,
+  "grant_prices": [
+   57.23
+  ],
+  "rows": [
+   {
+    "sh": 1136.0,
+    "pr": 57.23,
+    "sec": "Restricted Stock Units",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001864193-26-000002",
+  "ticker": "RSVR",
+  "issuer": "Reservoir Media, Inc.",
+  "owner": "Field Ezra S.",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-22"
+  ],
+  "elective_shares": 1231.0,
+  "elective_value_filed": 12494.65,
+  "value_known": true,
+  "grant_prices": [
+   10.15
+  ],
+  "rows": [
+   {
+    "sh": 1231.0,
+    "pr": 10.15,
+    "sec": "Common stock, $0.0001 par value",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001867327-26-000002",
+  "ticker": "RSVR",
+  "issuer": "Reservoir Media, Inc.",
+  "owner": "Cook Stephen M.",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-22"
+  ],
+  "elective_shares": 492.0,
+  "elective_value_filed": 4993.8,
+  "value_known": true,
+  "grant_prices": [
+   10.15
+  ],
+  "rows": [
+   {
+    "sh": 492.0,
+    "pr": 10.15,
+    "sec": "Common stock, $0.0001 par value",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001910332-26-000006",
+  "ticker": "CUBI",
+  "issuer": "Customers Bancorp, Inc.",
+  "owner": "Banks Bernard Bennett",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-15"
+  ],
+  "elective_shares": 881.0,
+  "elective_value_filed": 68903.01,
+  "value_known": true,
+  "grant_prices": [
+   78.21
+  ],
+  "rows": [
+   {
+    "sh": 881.0,
+    "pr": 78.21,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001910479-26-000010",
+  "ticker": "GD",
+  "issuer": "GENERAL DYNAMICS CORP",
+  "owner": "Hooper Charles W",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-16"
+  ],
+  "elective_shares": 20.0,
+  "elective_value_filed": 7197.0,
+  "value_known": true,
+  "grant_prices": [
+   359.85
+  ],
+  "rows": [
+   {
+    "sh": 20.0,
+    "pr": 359.85,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0001911373-26-000002",
+  "ticker": "CUBI",
+  "issuer": "Customers Bancorp, Inc.",
+  "owner": "Mackay Robert Neil",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-15"
+  ],
+  "elective_shares": 522.0,
+  "elective_value_filed": 40825.62,
+  "value_known": true,
+  "grant_prices": [
+   78.21
+  ],
+  "rows": [
+   {
+    "sh": 522.0,
+    "pr": 78.21,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0002006183-26-000002",
+  "ticker": "CROX",
+  "issuer": "Crocs, Inc.",
+  "owner": "TOLMARE NEERAJ",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-09"
+  ],
+  "elective_shares": 1095.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 1095.0,
+    "pr": 0.0,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0002018686-26-000008",
+  "ticker": "BDTX",
+  "issuer": "Black Diamond Therapeutics, Inc.",
+  "owner": "Raman Prakash",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-19"
+  ],
+  "elective_shares": 7907.0,
+  "elective_value_filed": 13125.62,
+  "value_known": true,
+  "grant_prices": [
+   1.66
+  ],
+  "rows": [
+   {
+    "sh": 7907.0,
+    "pr": 1.66,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0002058781-26-000002",
+  "ticker": "ADSK",
+  "issuer": "Autodesk, Inc.",
+  "owner": "Simons Anna C",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-17"
+  ],
+  "elective_shares": 466.0,
+  "elective_value_filed": 0.0,
+  "value_known": false,
+  "grant_prices": [],
+  "rows": [
+   {
+    "sh": 466.0,
+    "pr": 0.0,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0002096414-26-000002",
+  "ticker": "CUBI",
+  "issuer": "Customers Bancorp, Inc.",
+  "owner": "Looney Susan Dianne",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-15"
+  ],
+  "elective_shares": 625.0,
+  "elective_value_filed": 48881.25,
+  "value_known": true,
+  "grant_prices": [
+   78.21
+  ],
+  "rows": [
+   {
+    "sh": 625.0,
+    "pr": 78.21,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0002096423-26-000002",
+  "ticker": "CUBI",
+  "issuer": "Customers Bancorp, Inc.",
+  "owner": "Krasne Robert Morris",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-15"
+  ],
+  "elective_shares": 849.0,
+  "elective_value_filed": 66400.29,
+  "value_known": true,
+  "grant_prices": [
+   78.21
+  ],
+  "rows": [
+   {
+    "sh": 849.0,
+    "pr": 78.21,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ },
+ {
+  "adsh": "0002096815-26-000002",
+  "ticker": "CUBI",
+  "issuer": "Customers Bancorp, Inc.",
+  "owner": "Sirmans Dalton Talley",
+  "role": "Director",
+  "title": null,
+  "dates": [
+   "2026-06-15"
+  ],
+  "elective_shares": 737.0,
+  "elective_value_filed": 57640.77,
+  "value_known": true,
+  "grant_prices": [
+   78.21
+  ],
+  "rows": [
+   {
+    "sh": 737.0,
+    "pr": 78.21,
+    "sec": "Common Stock",
+    "code": "A"
+   }
+  ]
+ }
+]

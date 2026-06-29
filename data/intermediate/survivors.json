@@ -1,0 +1,5060 @@
+[
+ {
+  "adsh": "0000027996-26-000104",
+  "issuer": "DELUXE CORP",
+  "ticker": "DLX",
+  "owners": [
+   {
+    "name": "Cummins Hugh S. III",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 1205.0,
+  "value": 27522.2,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Consists of restricted stock units granded in lieu of director fees pursuant to an election by the director pursuant to the Company's Non-Employee Director Stock and Deferral Plan. The restricted stock units will convert to shares of Common Stock on deferred dates specified by the director."
+  }
+ },
+ {
+  "adsh": "0000027996-26-000106",
+  "issuer": "DELUXE CORP",
+  "ticker": "DLX",
+  "owners": [
+   {
+    "name": "Brown Angela L",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 1205.0,
+  "value": 27522.2,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Consists of restricted stock units granded in lieu of director fees pursuant to an election by the director pursuant to the Company's Non-Employee Director Stock and Deferral Plan. The restricted stock units will convert to shares of Common Stock on deferred dates specified by the director."
+  }
+ },
+ {
+  "adsh": "0000059478-26-000057",
+  "issuer": "ELI LILLY & Co",
+  "ticker": "LLY",
+  "owners": [
+   {
+    "name": "Fyrwald J Erik",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 8.7809,
+  "value": 9916.71,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "At the election of the reporting person, the shares acquired pursuant to this filing have been deferred in lieu of cash compensation as stock units under the Lilly Directors' Deferral Plan and will be settled in shares of common stock following the reporting person's separation from service."
+  }
+ },
+ {
+  "adsh": "0000059478-26-000059",
+  "issuer": "ELI LILLY & Co",
+  "ticker": "LLY",
+  "owners": [
+   {
+    "name": "LUCIANO JUAN R",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 14.0937,
+  "value": 15916.72,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "At the election of the reporting person, the shares acquired pursuant to this filing have been deferred in lieu of cash compensation as stock units under the Lilly Directors' Deferral Plan and will be settled in shares of common stock following the reporting person's separation from service."
+  }
+ },
+ {
+  "adsh": "0000354963-26-000185",
+  "issuer": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
+  "ticker": "SHEN",
+  "owners": [
+   {
+    "name": "BARNES VICTOR CHRISTOPHER",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 51.2019,
+  "value": 816.67,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Shares received in lieu of director fees."
+  }
+ },
+ {
+  "adsh": "0000354963-26-000186",
+  "issuer": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
+  "ticker": "SHEN",
+  "owners": [
+   {
+    "name": "Beckett Thomas",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 25.0784,
+  "value": 400.0,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Shares received in lieu of director fees."
+  }
+ },
+ {
+  "adsh": "0000354963-26-000187",
+  "issuer": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
+  "ticker": "SHEN",
+  "owners": [
+   {
+    "name": "Koontz Richard L Jr",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 31.348,
+  "value": 500.0,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Shares received in lieu of director fees."
+  }
+ },
+ {
+  "adsh": "0000354963-26-000188",
+  "issuer": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
+  "ticker": "SHEN",
+  "owners": [
+   {
+    "name": "QUAGLIO KENNETH L",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 26.1235,
+  "value": 416.67,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Shares received in lieu of director fees."
+  }
+ },
+ {
+  "adsh": "0000354963-26-000189",
+  "issuer": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
+  "ticker": "SHEN",
+  "owners": [
+   {
+    "name": "Rhymes Michael Anthony",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 31.348,
+  "value": 500.0,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Shares received in lieu of director fees."
+  }
+ },
+ {
+  "adsh": "0000354963-26-000190",
+  "issuer": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
+  "ticker": "SHEN",
+  "owners": [
+   {
+    "name": "SCHULTZ LEIGH ANN",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 41.7975,
+  "value": 666.67,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Shares received in lieu of director fees."
+  }
+ },
+ {
+  "adsh": "0000750686-26-000041",
+  "issuer": "CAMDEN NATIONAL CORP",
+  "ticker": "CAC",
+  "owners": [
+   {
+    "name": "Haynes Larry K",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 279.0,
+  "value": 14365.71,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Shares acquired under Camden National Corporation's 2022 Equity and Incentive Plan and Amendment in lieu of director fees."
+  }
+ },
+ {
+  "adsh": "0000750686-26-000042",
+  "issuer": "CAMDEN NATIONAL CORP",
+  "ticker": "CAC",
+  "owners": [
+   {
+    "name": "Soderberg Carl John",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 308.0,
+  "value": 15858.92,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Shares acquired under Camden National Corporation's 2022 Equity and Incentive Plan and Amendment in lieu of director fees."
+  }
+ },
+ {
+  "adsh": "0000750686-26-000043",
+  "issuer": "CAMDEN NATIONAL CORP",
+  "ticker": "CAC",
+  "owners": [
+   {
+    "name": "Hatfield Rebecca",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 170.0,
+  "value": 8753.3,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Shares acquired under Camden National Corporation's 2022 Equity and Incentive Plan and Amendment in lieu of director fees."
+  }
+ },
+ {
+  "adsh": "0000750686-26-000044",
+  "issuer": "CAMDEN NATIONAL CORP",
+  "ticker": "CAC",
+  "owners": [
+   {
+    "name": "Maxwell Raina",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 279.0,
+  "value": 14365.71,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Shares acquired under Camden National Corporation's 2022 Equity and Incentive Plan and Amendment in lieu of director fees."
+  }
+ },
+ {
+  "adsh": "0000769397-26-000052",
+  "issuer": "Autodesk, Inc.",
+  "ticker": "ADSK",
+  "owners": [
+   {
+    "name": "Smith Stacy J",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 2640.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "The Reporting Person is entitled to receive one share of Common Stock for each Restricted Stock Unit. These are Restricted Stock Units granted pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan in lieu of cash compensation for services as a director, and vest on the date of the next annual meeting.",
+   "F2": "The total securities beneficially owned includes 1,087 shares of unvested Restricted Stock Units.",
+   "F3": "The Reporting Person is entitled to receive one share of Common Stock for each Restricted Stock Unit. These Restricted Stock Units, which are granted annually pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan, vest on the date of the next annual meeting.",
+   "F4": "The total securities beneficially owned includes 2,640 shares of unvested Restricted Stock Units."
+  }
+ },
+ {
+  "adsh": "0000858877-26-000100",
+  "issuer": "CISCO SYSTEMS, INC.",
+  "ticker": "CSCO",
+  "owners": [
+   {
+    "name": "Weil Kevin",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 251.0,
+  "value": 30162.67,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Represents a fully vested deferred restricted stock unit award covering shares in lieu of the reporting person's cash retainer fees which will settle in shares on, or as soon as practicable after, the reporting person's \"separation from service\" to Cisco within the meaning of Section 409A of the Internal Revenue Code.",
+   "F2": "Includes 103.067 dividend equivalents accrued on vested deferred restricted stock units. Each dividend equivalent is the economic equivalent of one share of Cisco common stock."
+  }
+ },
+ {
+  "adsh": "0000906107-26-000021",
+  "issuer": "EQUITY RESIDENTIAL",
+  "ticker": "EQR",
+  "owners": [
+   {
+    "name": "Aman Angela M",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 3561.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "On June 18, 2026, the reporting person elected to receive a grant of Series 2026C restricted limited partnership interests (\"RUs\") in ERP Operating Limited Partnership (the \"OP\"), the OP of Equity Residential (the \"Company\"), in connection with the Company's annual grant of long-term compensation for prospective service from the 2026 Annual Meeting of Shareholders.",
+   "F2": "RUs are a class of partnership interest that automatically convert into an equal number of limited partnership interests of the OP (\"OP Units\") when the capital account related to the RUs reaches a specified target for federal income tax purposes (provided such target is reached within ten years of issuance).  Subject to the vesting requirements of the grant and certain other restrictions, OP Units are exchangeable by the holder for common shares of the Company on a one-for-one basis or the cash value of such shares, at the Company's option.  The RUs reflected in this report also include any OP Units into which such RUs automatically convert.",
+   "F3": "The RUs are scheduled to vest on June 18, 2027.  In addition, the RUs (including any OP Units into which they may automatically convert) are subject to a holding restriction until June 18, 2028."
+  }
+ },
+ {
+  "adsh": "0000906107-26-000022",
+  "issuer": "EQUITY RESIDENTIAL",
+  "ticker": "EQR",
+  "owners": [
+   {
+    "name": "Carr Chris",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 3561.0,
+  "value": 1780.5,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "On June 18, 2026, the reporting person elected to receive a grant of Series 2026C restricted limited partnership interests (\"RUs\") in ERP Operating Limited Partnership (the \"OP\"), the OP of Equity Residential (the \"Company\"), in connection with the Company's annual grant of long-term compensation for prospective service from the 2026 Annual Meeting of Shareholders.",
+   "F2": "RUs are a class of partnership interest that automatically convert into an equal number of limited partnership interests of the OP (\"OP Units\") when the capital account related to the RUs reaches a specified target for federal income tax purposes (provided such target is reached within ten years of issuance).  Subject to the vesting requirements of the grant and certain other restrictions, OP Units are exchangeable by the holder for common shares of the Company on a one-for-one basis or the cash value of such shares, at the Company's option.  The RUs reflected in this report also include any OP Units into which such RUs automatically convert.",
+   "F3": "The RUs are scheduled to vest on June 18, 2027.  In addition, the RUs (including any OP Units into which they may automatically convert) are subject to a holding restriction until June 18, 2028."
+  }
+ },
+ {
+  "adsh": "0000906107-26-000025",
+  "issuer": "EQUITY RESIDENTIAL",
+  "ticker": "EQR",
+  "owners": [
+   {
+    "name": "Huque Tahsinul Zia",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 3561.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "On June 18, 2026, the reporting person elected to receive a grant of Series 2026C restricted limited partnership interests (\"RUs\") in ERP Operating Limited Partnership (the \"OP\"), the OP of Equity Residential (the \"Company\"), in connection with the Company's annual grant of long-term compensation for prospective service from the 2026 Annual Meeting of Shareholders.",
+   "F2": "RUs are a class of partnership interest that automatically convert into an equal number of limited partnership interests of the OP (\"OP Units\") when the capital account related to the RUs reaches a specified target for federal income tax purposes (provided such target is reached within ten years of issuance).  Subject to the vesting requirements of the grant and certain other restrictions, OP Units are exchangeable by the holder for common shares of the Company on a one-for-one basis or the cash value of such shares, at the Company's option.  The RUs reflected in this report also include any OP Units into which such RUs automatically convert.",
+   "F3": "The RUs are scheduled to vest on June 18, 2027.  In addition, the RUs (including any OP Units into which they may automatically convert) are subject to a holding restriction until June 18, 2028."
+  }
+ },
+ {
+  "adsh": "0000906107-26-000028",
+  "issuer": "EQUITY RESIDENTIAL",
+  "ticker": "EQR",
+  "owners": [
+   {
+    "name": "SHAPIRO MARK S",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 3561.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "On June 18, 2026, the reporting person elected to receive a grant of Series 2026C restricted limited partnership interests (\"RUs\") in ERP Operating Limited Partnership (the \"OP\"), the OP of Equity Residential (the \"Company\"), in connection with the Company's annual grant of long-term compensation for prospective service from the 2026 Annual Meeting of Shareholders.",
+   "F2": "RUs are a class of partnership interest that automatically convert into an equal number of limited partnership interests of the OP (\"OP Units\") when the capital account related to the RUs reaches a specified target for federal income tax purposes (provided such target is reached within ten years of issuance).  Subject to the vesting requirements of the grant and certain other restrictions, OP Units are exchangeable by the holder for common shares of the Company on a one-for-one basis or the cash value of such shares, at the Company's option.  The RUs reflected in this report also include any OP Units into which such RUs automatically convert.",
+   "F3": "The RUs are scheduled to vest on June 18, 2027.  In addition, the RUs (including any OP Units into which they may automatically convert) are subject to a holding restriction until June 18, 2028."
+  }
+ },
+ {
+  "adsh": "0000914190-26-000098",
+  "issuer": "NEPHROS INC",
+  "ticker": "NEPH",
+  "owners": [
+   {
+    "name": "Amron Arthur H",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 3574.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "Shares issued to reporting person in lieu of cash fees for board service.",
+   "F2": "This option vests as to 2,441 shares on each of 5/14/24, 5/14/25 and 5/14/26.",
+   "F3": "This option vests as to 2,350 shares on each of 1/1/25, 1/1/26 and 1/1/27."
+  }
+ },
+ {
+  "adsh": "0000947871-26-000623",
+  "issuer": "Ardagh Metal Packaging S.A.",
+  "ticker": "AMBP",
+  "owners": [
+   {
+    "name": "Blunt Abigail",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 6859.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "Represents ordinary shares issued on a predetermined date pursuant to the Reporting Person's prior election to receive ordinary shares in lieu of a portion of the annual cash retainer in accordance with the Issuer's independent directors' compensation program."
+  }
+ },
+ {
+  "adsh": "0001042557-26-000008",
+  "issuer": "MARRIOTT VACATIONS WORLDWIDE Corp",
+  "ticker": "VAC",
+  "owners": [
+   {
+    "name": "GALBREATH LIZANNE",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 88.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "The Reporting Person elected to receive any dividends with respect to the Non-Employee Director Share Awards issued to the Reporting Person in the form of additional Non-Employee Director Share Awards. Such additional awards vest immediately upon issuance and are payable in common stock as specified by the Reporting Person at the time of the deferral election."
+  }
+ },
+ {
+  "adsh": "0001083181-26-000003",
+  "issuer": "B&G Foods, Inc.",
+  "ticker": "BGS",
+  "owners": [
+   {
+    "name": "SHERRILL STEPHEN",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 216026.0,
+  "value": 164999.35,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Each non-employee director of B&G Foods receives an annual equity grant of approximately $130,000 of Common Stock based upon a 30-day average closing price as part of his or her non-employee director compensation.",
+   "F2": "Each non-employee director of B&G Foods at his or her option may choose to receive the cash portion of his or her annual board service fee (or any portion thereof) in an equivalent amount of options instead of cash.  Mr. Sherrill elected to receive all $165,000 of his annual board service fee in the form of options."
+  }
+ },
+ {
+  "adsh": "0001104659-26-068948",
+  "issuer": "XCel Brands, Inc.",
+  "ticker": "XELB",
+  "owners": [
+   {
+    "name": "D LOREN ROBERT W",
+    "dir": true,
+    "off": true,
+    "title": "CEO and Chairman"
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A",
+   "F"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 13617.0,
+  "value": 29004.21,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Represents shares awarded by the issuer pursuant to the reporting person's employment agreement in lieu of cash salary.",
+   "F2": "Represents shares surrendered to the issuer in payment of withholding tax liability increment to the stock award.",
+   "F3": "Represents shares held by Clearmarkets Capital, LLC (d/b/d IPX Capital, LLC), a company controlled by the reporting person",
+   "F4": "Represents shares held by the Irrevocable Trust of Rose Dempsey, of which the reporting person has sole voting and dispositive power."
+  }
+ },
+ {
+  "adsh": "0001104659-26-069576",
+  "issuer": "TMC the metals Co Inc.",
+  "ticker": "TMC",
+  "owners": [
+   {
+    "name": "Greig Andrew Carlyle",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 36820.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "In lieu of cash compensation under the Issuer's Nonemployee Director Compensation Policy (\"Director Compensation Policy\"), the Reporting Person was granted restricted stock units (\"RSUs\") under the Issuer's 2021 Equity Incentive Plan (\"Equity Incentive Plan\"). Each RSU represents the right to receive one common share upon vesting. The RSUs vested immediately upon issuance.",
+   "F2": "Pursuant to the Director Compensation Policy, the Reporting Person was granted RSUs under the Equity Incentive Plan. Each RSU represents the right to receive one common share upon vesting. The RSUs vest on the date of the Issuer's 2027 annual meeting of shareholders, subject to the Reporting Person's continued service through the vesting date."
+  }
+ },
+ {
+  "adsh": "0001104659-26-069577",
+  "issuer": "TMC the metals Co Inc.",
+  "ticker": "TMC",
+  "owners": [
+   {
+    "name": "Hall Andrew",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 34791.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "In lieu of cash compensation under the Issuer's Nonemployee Director Compensation Policy (\"Director Compensation Policy\"), the Reporting Person was granted restricted stock units (\"RSUs\") under the Issuer's 2021 Equity Incentive Plan (\"Equity Incentive Plan\"). Each RSU represents the right to receive one common share upon vesting. The RSUs vested immediately upon issuance.",
+   "F2": "Pursuant to the Director Compensation Policy, the Reporting Person was granted RSUs under the Equity Incentive Plan. Each RSU represents the right to receive one common share upon vesting. The RSUs vest on the date of the Issuer's 2027 annual meeting of shareholders, subject to the Reporting Person's continued service through the vesting date."
+  }
+ },
+ {
+  "adsh": "0001104659-26-069579",
+  "issuer": "TMC the metals Co Inc.",
+  "ticker": "TMC",
+  "owners": [
+   {
+    "name": "Karkar Andrei",
+    "dir": true,
+    "off": false,
+    "title": null
+   },
+   {
+    "name": "ERAS Capital LLC",
+    "dir": false,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 34385.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "In lieu of cash compensation under the Issuer's Nonemployee Director Compensation Policy (\"Director Compensation Policy\"), the Reporting Person was granted restricted stock units (\"RSUs\") under the Issuer's 2021 Equity Incentive Plan (\"Equity Incentive Plan\"). Each RSU represents the right to receive one common share upon vesting. The RSUs vested immediately upon issuance.",
+   "F2": "Pursuant to the Director Compensation Policy, the Reporting Person was granted RSUs under the Equity Incentive Plan. Each RSU represents the right to receive one common share upon vesting. The RSUs vest on the date of the Issuer's 2027 annual meeting of shareholders, subject to the Reporting Person's continued service through the vesting date.",
+   "F3": "The securities are held directly by ERAS Capital LLC (\"ERAS\"). Andrei Karkar is the managing member of ERAS and shares voting and dispositive power over and may be deemed to beneficially own such securities held by ERAS. Andrei Karkar disclaims beneficial ownership over any securities owned by ERAS other than to the extent of any pecuniary interest he may have therein."
+  }
+ },
+ {
+  "adsh": "0001104659-26-069581",
+  "issuer": "TMC the metals Co Inc.",
+  "ticker": "TMC",
+  "owners": [
+   {
+    "name": "Khama Sheila",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 33844.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "In lieu of cash compensation under the Issuer's Nonemployee Director Compensation Policy (\"Director Compensation Policy\"), the Reporting Person was granted restricted stock units (\"RSUs\") under the Issuer's 2021 Equity Incentive Plan (\"Equity Incentive Plan\"). Each RSU represents the right to receive one common share upon vesting. The RSUs vested immediately upon issuance.",
+   "F2": "Pursuant to the Director Compensation Policy, the Reporting Person was granted RSUs under the Equity Incentive Plan. Each RSU represents the right to receive one common share upon vesting. The RSUs vest on the date of the Issuer's 2027 annual meeting of shareholders, subject to the Reporting Person's continued service through the vesting date."
+  }
+ },
+ {
+  "adsh": "0001104659-26-069583",
+  "issuer": "TMC the metals Co Inc.",
+  "ticker": "TMC",
+  "owners": [
+   {
+    "name": "Madsbjerg Christian",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 35603.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "In lieu of cash compensation under the Issuer's Nonemployee Director Compensation Policy (\"Director Compensation Policy\"), the Reporting Person was granted restricted stock units (\"RSUs\") under the Issuer's 2021 Equity Incentive Plan (\"Equity Incentive Plan\"). Each RSU represents the right to receive one common share upon vesting. The RSUs vested immediately upon issuance.",
+   "F2": "Pursuant to the Director Compensation Policy, the Reporting Person was granted RSUs under the Equity Incentive Plan. Each RSU represents the right to receive one common share upon vesting. The RSUs vest on the date of the Issuer's 2027 annual meeting of shareholders, subject to the Reporting Person's continued service through the vesting date."
+  }
+ },
+ {
+  "adsh": "0001104659-26-078381",
+  "issuer": "PERPETUA RESOURCES CORP.",
+  "ticker": "PPTA",
+  "owners": [
+   {
+    "name": "Cole Andrew Phillip",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 828.0,
+  "value": 17487.36,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "A deferred share unit (\"DSU\") entitles the holder to receive one common share of Perpetua Resources Corp. (the \"Issuer\") (or, at the election of the holder and subject to the approval of the administrator of the Issuer's Omnibus Equity Incentive Plan, cash equal to the value thereof on the date of settlement) for each DSU. The Reporting Person elected to receive DSUs in lieu of a cash retainer for his service during the second quarter of 2026. The DSUs are fully vested as of the date of grant and will be settled following the reporting person's separation from service.",
+   "F2": "Based on the closing price of the Issuer's Common Shares on the Nasdaq Capital Market on June 24, 2026."
+  }
+ },
+ {
+  "adsh": "0001104659-26-078382",
+  "issuer": "PERPETUA RESOURCES CORP.",
+  "ticker": "PPTA",
+  "owners": [
+   {
+    "name": "Sternhell Alexander McLeod",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 828.0,
+  "value": 17487.36,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "A deferred share unit (\"DSU\") entitles the holder to receive one common share of Perpetua Resources Corp. (the \"Issuer\") (or, at the election of the holder and subject to the approval of the administrator of the Issuer's Omnibus Equity Incentive Plan, cash equal to the value thereof on the date of settlement) for each\nDSU. The Reporting Person elected to receive DSUs in lieu of a cash retainer for his service during the second quarter of 2026. The DSUs are fully vested as of the date of grant and will be settled following the reporting person's separation from service.",
+   "F2": "Based on the closing price of the Issuer's Common Shares on the Nasdaq Capital Market on June 24, 2026."
+  }
+ },
+ {
+  "adsh": "0001104659-26-078383",
+  "issuer": "PERPETUA RESOURCES CORP.",
+  "ticker": "PPTA",
+  "owners": [
+   {
+    "name": "Dean Robert Alan",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 1006.0,
+  "value": 21246.72,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "A deferred share unit (\"DSU\") entitles the holder to receive one common share of Perpetua Resources Corp. (the \"Issuer\") (or, at the election of the holder and subject to the approval of the administrator of the Issuer's Omnibus Equity Incentive Plan, cash equal to the value thereof on the date of settlement) for each DSU. The Reporting Person elected to receive DSUs in lieu of a cash retainer for his service during the second quarter of 2026. The DSUs are fully vested as of the date of grant and will be settled following the reporting person's separation from service.",
+   "F2": "Based on the closing price of the Issuer's Common Shares on the Nasdaq Capital Market on June 24, 2026."
+  }
+ },
+ {
+  "adsh": "0001104659-26-078384",
+  "issuer": "PERPETUA RESOURCES CORP.",
+  "ticker": "PPTA",
+  "owners": [
+   {
+    "name": "Haddock Richie Darrin",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 828.0,
+  "value": 17487.36,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "A deferred share unit (\"DSU\") entitles the holder to receive one common share of Perpetua Resources Corp. (the \"Issuer\") (or, at the election of the holder and subject to the approval of the administrator of the Issuer's Omnibus Equity Incentive Plan, cash equal to the value thereof on the date of settlement) for each DSU. The Reporting Person elected to receive DSUs in lieu of a cash retainer for his service during the second quarter of 2026. The DSUs are fully vested as of the date of grant and will be settled following the reporting person's separation from service.",
+   "F2": "Based on the closing price of the Issuer's Common Shares on the Nasdaq Capital Market on June 24, 2026."
+  }
+ },
+ {
+  "adsh": "0001104659-26-078385",
+  "issuer": "PERPETUA RESOURCES CORP.",
+  "ticker": "PPTA",
+  "owners": [
+   {
+    "name": "Malmen Jeffrey L",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 828.0,
+  "value": 17487.36,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "A deferred share unit (\"DSU\") entitles the holder to receive one common share of Perpetua Resources Corp. (the \"Issuer\") (or, at the election of the holder and subject to the approval of the administrator of the Issuer's Omnibus Equity Incentive Plan, cash equal to the value thereof on the date of settlement) for each DSU. The Reporting Person elected to receive DSUs in lieu of a cash retainer for his service during the second quarter of 2026. The DSUs are fully vested as of the date of grant and will be settled following the reporting person's separation from service.",
+   "F2": "Based on the closing price of the Issuer's Common Shares on the Nasdaq Capital Market on June 24, 2026."
+  }
+ },
+ {
+  "adsh": "0001105602-26-000010",
+  "issuer": "MARRIOTT VACATIONS WORLDWIDE Corp",
+  "ticker": "VAC",
+  "owners": [
+   {
+    "name": "QUAZZO STEPHEN R",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 24.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "The Reporting Person elected to receive any dividends with respect to the Non-Employee Director Share Awards issued to the Reporting Person in the form of additional Non-Employee Director Share Awards. Such additional awards vest immediately upon issuance and are payable in common stock as specified by the Reporting Person at the time of the deferral election."
+  }
+ },
+ {
+  "adsh": "0001116268-26-000013",
+  "issuer": "CISCO SYSTEMS, INC.",
+  "ticker": "CSCO",
+  "owners": [
+   {
+    "name": "JOHNSON KRISTINA M",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 351.0,
+  "value": 42179.67,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Represents a stock award covering shares in lieu of the reporting person's cash retainer fees, which is fully vested on the date of grant.",
+   "F2": "Includes 10,947.699 dividend equivalents accrued on vested deferred restricted stock units. Each dividend equivalent is the economic equivalent of one share of Cisco common stock."
+  }
+ },
+ {
+  "adsh": "0001180770-26-000003",
+  "issuer": "Caris Life Sciences, Inc.",
+  "ticker": "CAI",
+  "owners": [
+   {
+    "name": "POSTE GEORGE",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 1600.0,
+  "value": 24992.0,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Shares issued in lieu of cash compensation for 2026 board retainer fees. Number of shares determined by dividing the cash retainer earned by the ten trading day average of the daily volume weighted average price per share through and including May 29, 2026.",
+   "F2": "Amount reflects the previous transfer by the Reporting Person of 204,108 shares of Common Stock from direct ownership to a family trust. Following the transfer, these shares are held indirectly by the Reporting Person through the family trust and are reflected in the indirect ownership line. The transfer did not change the Reporting Person's aggregate beneficial ownership of these securities."
+  }
+ },
+ {
+  "adsh": "0001182051-26-000008",
+  "issuer": "GENERAL DYNAMICS CORP",
+  "ticker": "GD",
+  "owners": [
+   {
+    "name": "DE LEON RUDY F",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 52.0,
+  "value": 18712.2,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Reflects stock received in lieu of director fees in accordance with outside directors' compensation program."
+  }
+ },
+ {
+  "adsh": "0001193125-26-252375",
+  "issuer": "AGENUS INC",
+  "ticker": "AGEN",
+  "owners": [
+   {
+    "name": "ARMEN GARO H",
+    "dir": true,
+    "off": true,
+    "title": "See Remarks"
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 4644.0,
+  "value": 16254.0,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "At his request and with the approval of the Agenus Inc. Compensation Committee, Garo H. Armen's salary is being paid in stock, in lieu of cash. The amount reported herein represents the net amount of Dr. Armen's salary for the pay period ending May 29, 2026. Such shares are issued in accordance with the Amended and Restated Agenus Inc. 2019 Equity Incentive are fully vested on the date of issuance.",
+   "F2": "$3.50 is the closing price of our Common Stock on May 29, 2026, the last trading day for the payroll date for the pay period ending May 29, 2026.",
+   "F3": "Shares are held in Dr. Armen's IRA accounts.",
+   "F4": "Dr. Armen is trustee and has investment authority for the Garo Armen 2020 2 Year AG GRAT holder of 23,950 shares of our Common Stock. Dr. Armen is a general partner in Pixie Partners, a General Partnership (\"Pixie\"), which as of the date of this report owns 5,000 shares of our Common Stock. Dr. Armen has a pecuniary interest in only a portion of the shares held by Pixie and disclaims beneficial ownership to the extent of his pecuniary interest therein."
+  }
+ },
+ {
+  "adsh": "0001193125-26-253451",
+  "issuer": "Builders FirstSource, Inc.",
+  "ticker": "BLDR",
+  "owners": [
+   {
+    "name": "Steinke Craig Arthur",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 491.0,
+  "value": 37443.66,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Reflects acquisition of shares in lieu of cash compensation for services as a director under the Corporation's 2026 Incentive Plan pursuant to the Corporation's Amended and Restated Director Compensation Policy."
+  }
+ },
+ {
+  "adsh": "0001193125-26-253452",
+  "issuer": "Builders FirstSource, Inc.",
+  "ticker": "BLDR",
+  "owners": [
+   {
+    "name": "Charles Dirkson R",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 409.0,
+  "value": 31190.34,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Reflects acquisition of shares in lieu of cash compensation for services as a director under the Corporation's 2026 Incentive Plan pursuant to the Corporation's Amended and Restated Director Compensation Policy."
+  }
+ },
+ {
+  "adsh": "0001193125-26-253455",
+  "issuer": "Builders FirstSource, Inc.",
+  "ticker": "BLDR",
+  "owners": [
+   {
+    "name": "Hayes William B",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 508.0,
+  "value": 38740.08,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Reflects acquisition of shares in lieu of cash compensation for services as a director under the Corporation's 2026 Incentive Plan pursuant to the Corporation's Amended and Restated Director Compensation Policy."
+  }
+ },
+ {
+  "adsh": "0001193125-26-253456",
+  "issuer": "Builders FirstSource, Inc.",
+  "ticker": "BLDR",
+  "owners": [
+   {
+    "name": "CHRISTOPHE CLEVELAND A",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 491.0,
+  "value": 37443.66,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Reflects acquisition of shares in lieu of cash compensation for services as a director under the Corporation's 2026 Incentive Plan pursuant to the Corporation's Amended and Restated Director Compensation Policy."
+  }
+ },
+ {
+  "adsh": "0001193125-26-253457",
+  "issuer": "Builders FirstSource, Inc.",
+  "ticker": "BLDR",
+  "owners": [
+   {
+    "name": "OLEARY JAMES",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 491.0,
+  "value": 37443.66,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Reflects acquisition of shares in lieu of cash compensation for services as a director under the Corporation's 2026 Incentive Plan pursuant to the Corporation's Amended and Restated Director Compensation Policy."
+  }
+ },
+ {
+  "adsh": "0001193125-26-253458",
+  "issuer": "Builders FirstSource, Inc.",
+  "ticker": "BLDR",
+  "owners": [
+   {
+    "name": "Renz Maria",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 426.0,
+  "value": 32486.76,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Reflects acquisition of shares in lieu of cash compensation for services as a director under the Corporation's 2026 Incentive Plan pursuant to the Corporation's Amended and Restated Director Compensation Policy."
+  }
+ },
+ {
+  "adsh": "0001193125-26-253460",
+  "issuer": "Builders FirstSource, Inc.",
+  "ticker": "BLDR",
+  "owners": [
+   {
+    "name": "Boydston Cory Jacobs",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 409.0,
+  "value": 31190.34,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Reflects acquisition of shares in lieu of cash compensation for services as a director under the Corporation's 2026 Incentive Plan pursuant to the Corporation's Amended and Restated Director Compensation Policy."
+  }
+ },
+ {
+  "adsh": "0001193125-26-253461",
+  "issuer": "MiNK Therapeutics, Inc.",
+  "ticker": "INKT",
+  "owners": [
+   {
+    "name": "WIINBERG ULF",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 2416.0,
+  "value": 28008.28,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "The Reporting Person was granted restricted stock units (\"RSUs\"), which represent a contingent right to receive one share of Common Stock for each RSU. The RSUs were received in lieu of cash retainers for board and committee compensation.  The RSUs will vest one month from the grant date.",
+   "F2": "Shares are held in an irrevocable trust for the benefit of Mr. Wiinberg's family.",
+   "F3": "Due to an administrative error, the RSUs for Q1 2026 Board and committee compensation were not filed timely."
+  }
+ },
+ {
+  "adsh": "0001193125-26-253464",
+  "issuer": "Builders FirstSource, Inc.",
+  "ticker": "BLDR",
+  "owners": [
+   {
+    "name": "LEVY PAUL S",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 1049.0,
+  "value": 79996.74,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Reflects acquisition of shares in lieu of cash compensation for services as a director under the Corporation's 2026 Incentive Plan pursuant to the Corporation's Amended and Restated Director Compensation Policy."
+  }
+ },
+ {
+  "adsh": "0001193125-26-253465",
+  "issuer": "Builders FirstSource, Inc.",
+  "ticker": "BLDR",
+  "owners": [
+   {
+    "name": "ALEXANDER MARK A",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 409.0,
+  "value": 31190.34,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Reflects acquisition of shares in lieu of cash compensation for services as a director under the Corporation's 2026 Incentive Plan pursuant to the Corporation's Amended and Restated Director Compensation Policy."
+  }
+ },
+ {
+  "adsh": "0001193125-26-253466",
+  "issuer": "MiNK Therapeutics, Inc.",
+  "ticker": "INKT",
+  "owners": [
+   {
+    "name": "Behner Peter",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 2804.0,
+  "value": 32506.84,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "The Reporting Person was granted restricted stock units (\"RSUs\"), which represent a contingent right to receive one share of Common Stock for each RSU. The RSUs were received in lieu of cash retainers for board and committee compensation.  The RSUs will vest one month from the grant date.",
+   "F2": "Due to an administrative error, the RSUs for Q1 2026 Board and committee compensation were not filed timely."
+  }
+ },
+ {
+  "adsh": "0001193125-26-253468",
+  "issuer": "MiNK Therapeutics, Inc.",
+  "ticker": "INKT",
+  "owners": [
+   {
+    "name": "Corvese Brian",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 3084.0,
+  "value": 35752.72,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "The Reporting Person was granted restricted stock units (\"RSUs\"), which represent a contingent right to receive one share of Common Stock for each RSU. The RSUs were received in lieu of cash retainers for board and committee compensation.  The RSUs will vest one month from the grant date.",
+   "F2": "Due to an administrative error, the RSUs for Q1 2026 Board and committee compensation were not filed timely."
+  }
+ },
+ {
+  "adsh": "0001193125-26-253470",
+  "issuer": "MiNK Therapeutics, Inc.",
+  "ticker": "INKT",
+  "owners": [
+   {
+    "name": "Ryan Barbara",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 3063.0,
+  "value": 35509.02,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "The Reporting Person was granted restricted stock units (\"RSUs\"), which represent a contingent right to receive one share of Common Stock for each RSU. The RSUs were received in lieu of cash retainers for board and committee compensation.  The RSUs will vest one month from the grant date.",
+   "F2": "Due to an administrative error, the RSUs for Q1 2026 Board and committee compensation were not filed timely."
+  }
+ },
+ {
+  "adsh": "0001193125-26-253474",
+  "issuer": "MiNK Therapeutics, Inc.",
+  "ticker": "INKT",
+  "owners": [
+   {
+    "name": "Holcomb John Bradley",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 2330.0,
+  "value": 27011.68,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "The Reporting Person was granted restricted stock units (\"RSUs\"), which represent a contingent right to receive one share of Common Stock for each RSU. The RSUs were received in lieu of cash retainers for board and committee compensation.  The RSUs will vest one month from the grant date.",
+   "F2": "Due to an administrative error, the RSUs for Q1 2026 Board and committee compensation were not filed timely."
+  }
+ },
+ {
+  "adsh": "0001193125-26-255971",
+  "issuer": "CECO ENVIRONMENTAL CORP",
+  "ticker": "CECO",
+  "owners": [
+   {
+    "name": "RICHEY VICTOR L JR",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 8593.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "On June 1, 2026 (the \"Closing Date\"), pursuant to an Agreement and Plan of Merger, dated as of February 23, 2026 (the \"Merger Agreement\"), by and among CECO Environmental Corp. (the \"Issuer\"), Thermon Group Holdings, Inc. (\"Thermon\"), Longhorn Merger Sub, Inc. (\"Merger Sub, Inc.\") and Longhorn Merger Sub LLC (\"Merger Sub LLC\"), (i) Merger Sub, Inc. merged with and into Thermon, with Thermon continuing as a wholly-owned subsidiary of the Issuer and the surviving corporation of the merger (the \"First Merger\") and (ii) Thermon, as the surviving corporation of the First Merger, merged with and into Merger Sub LLC, with Merger Sub LLC being the surviving entity of the merger.",
+   "F2": "(Continued from Footnote 1) Pursuant to the Merger Agreement, at the effective time of the First Merger (the \"Effective Time\"), each share of Thermon's common stock issued and outstanding immediately prior to the Effective Time was converted into the right to receive, at the election of the holder and subject to the proration mechanisms set forth in the Merger Agreement, one of the following forms of merger consideration: (A) 0.6840 shares of the Issuer's common stock plus $10.00 in cash without interest (the \"Mixed Election Consideration\"), (B) $63.89 in cash, (C) 0.8110 shares of the Issuer's common stock (the \"Stock Election Consideration\"), or (D) for any shares of Thermon's common stock for which no election was made, the Mixed Election Consideration.",
+   "F3": "(Continued from Footnote 2) The Reporting Person elected to receive the Stock Election Consideration in exchange for his shares of Thermon common stock. As a result, the Reporting Person received 6,378 shares of the Issuer's common stock in exchange for shares of Thermon common stock held by the Reporting Person immediately prior to the Effective Time.",
+   "F4": "Represents restricted stock units granted under the CECO Environmental Corp. Deferred Compensation Plan for Non-Employee Directors. Each restricted stock unit represents a contingent right to receive one share of the Issuer's common stock and will vest on May 15, 2027.",
+   "F5": "Conversion of restricted stock units to the Issuer's common stock and distribution of such stock under the Deferred Compensation Plan is deferred until termination of service as a director."
+  }
+ },
+ {
+  "adsh": "0001193125-26-255974",
+  "issuer": "CECO ENVIRONMENTAL CORP",
+  "ticker": "CECO",
+  "owners": [
+   {
+    "name": "GEORGE MARCUS J",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 38905.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "On June 1, 2026 (the \"Closing Date\"), pursuant to an Agreement and Plan of Merger, dated as of February 23, 2026 (the \"Merger Agreement\"), by and among CECO Environmental Corp. (the \"Issuer\"), Thermon Group Holdings, Inc. (\"Thermon\"), Longhorn Merger Sub, Inc. (\"Merger Sub, Inc.\") and Longhorn Merger Sub LLC (\"Merger Sub LLC\"), (i) Merger Sub, Inc. merged with and into Thermon, with Thermon continuing as a wholly-owned subsidiary of the Issuer and the surviving corporation of the merger (the \"First Merger\") and (ii) Thermon, as the surviving corporation of the First Merger, merged with and into Merger Sub LLC, with Merger Sub LLC being the surviving entity of the merger.",
+   "F2": "(Continued from Footnote 1) Pursuant to the Merger Agreement, at the effective time of the First Merger (the \"Effective Time\"), each share of Thermon's common stock issued and outstanding immediately prior to the Effective Time was converted into the right to receive, at the election of the holder and subject to the proration mechanisms set forth in the Merger Agreement, one of the following forms of merger consideration: (A) 0.6840 shares of the Issuer's common stock plus $10.00 in cash without interest (the \"Mixed Election Consideration\"), (B) $63.89 in cash, (C) 0.8110 shares of the Issuer's common stock, or (D) for any shares of Thermon's common stock for which no election was made, the Mixed Election Consideration.",
+   "F3": "(Continued from Footnote 2) The Reporting Person elected to receive the Mixed Election Consideration in exchange for his shares of Thermon common stock. As a result, the Reporting Person received 36,690 shares of the Issuer's common stock in exchange for shares of Thermon common stock held by the Reporting Person immediately prior to the Effective Time.",
+   "F4": "Shares will vest on May 15, 2027."
+  }
+ },
+ {
+  "adsh": "0001193125-26-257364",
+  "issuer": "ADVANCE AUTO PARTS INC",
+  "ticker": "AAP",
+  "owners": [
+   {
+    "name": "LEE EUGENE I JR",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 5810.928,
+  "value": 335000.0,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "These deferred stock units, which will be converted to shares of issuer common stock at the time of distribution, were awarded under the Advance Auto Parts, Inc. Deferred Stock Unit Plan for Non-Employee Directors and Selected Executives. These shares will vest on June 2, 2027 and will be distributed on a pro-rata basis if board service ends prior to the vesting date. Otherwise, these shares will be distributed to the reporting person at the end of the director's board service.",
+   "F2": "These shares of issuer common stock were acquired by the reporting person in lieu of cash compensation under the Advance Auto Parts, Inc. Deferred Stock Unit Plan for Non-Employee Directors and Selected Executives."
+  }
+ },
+ {
+  "adsh": "0001193125-26-257378",
+  "issuer": "ADVANCE AUTO PARTS INC",
+  "ticker": "AAP",
+  "owners": [
+   {
+    "name": "Seboldt Thomas W",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 3295.75,
+  "value": 189999.99,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "These deferred stock units, which will be converted to shares of issuer common stock at the time of distribution, were awarded under the Advance Auto Parts, Inc. Deferred Stock Unit Plan for Non-Employee Directors and Selected Executives. These shares will vest on June 2, 2027 and will be distributed on a pro-rata basis if board service ends prior to the vesting date. Otherwise, these shares will be distributed to the reporting person at the end of the director's board service.",
+   "F2": "These shares of issuer common stock were acquired by the reporting person in lieu of cash compensation under the Advance Auto Parts, Inc. Deferred Stock Unit Plan for Non-Employee Directors and Selected Executives."
+  }
+ },
+ {
+  "adsh": "0001193125-26-260158",
+  "issuer": "iHeartMedia, Inc.",
+  "ticker": "IHRT",
+  "owners": [
+   {
+    "name": "MILLARD ROBERT B",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 71258.0,
+  "value": 149998.09,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Represents deferred stock units (\"DSUs\") in lieu of cash compensation. Each DSU represents a contingent right to receive one share of Class A Common Stock. The DSUs vest in equal quarterly installments, which began on March 31, 2026. Settlement of the DSUs has been deferred until December 31, 2031.",
+   "F2": "Represents DSUs. Each DSU represents a contingent right to receive one share of Class A Common Stock. The DSUs shall vest in full on the earlier of June 4, 2027 or the Company's 2027 annual meeting of stockholders. Settlement of the DSUs has been deferred until December 31, 2031."
+  }
+ },
+ {
+  "adsh": "0001193125-26-260160",
+  "issuer": "iHeartMedia, Inc.",
+  "ticker": "IHRT",
+  "owners": [
+   {
+    "name": "Englebardt Samuel Eli",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 71258.0,
+  "value": 149998.09,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Represents deferred stock units (\"DSUs\") in lieu of cash compensation. Each DSU represents a contingent right to receive one share of Class A Common Stock. The DSUs vest in equal quarterly installments, which began on March 31, 2026. Settlement of the DSUs has been deferred until within 45 days of the earliest to occur of (i) the Reporting Person's separation from service, (ii) a change in control, (iii) the Reporting Person's death, or (iv) the Reporting Person's disability.",
+   "F2": "The prior Form 4 for the Reporting Person dated May 15, 2025 contained an immaterial computational error in the total number of securities beneficially owned following the reported transactions. The current total reflects the accurate number of shares held by the Reporting Person.",
+   "F3": "Represents DSUs. Each DSU represents a contingent right to receive one share of Class A Common Stock. The DSUs shall vest in full on the earlier of June 4, 2027 or the Company's 2027 annual meeting of stockholders. Settlement of the DSUs has been deferred until within 45 days of the earliest to occur of (i) the Reporting Person's separation from service, (ii) a change in control, (iii) the Reporting Person's death, or (iv) the Reporting Person's disability."
+  }
+ },
+ {
+  "adsh": "0001193125-26-271889",
+  "issuer": "AGENUS INC",
+  "ticker": "AGEN",
+  "owners": [
+   {
+    "name": "ARMEN GARO H",
+    "dir": true,
+    "off": true,
+    "title": "See Remarks"
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 4925.0,
+  "value": 16252.5,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "At his request and with the approval of the Agenus Inc. Compensation Committee, Garo H. Armen's salary is being paid in stock, in lieu of cash. The amount reported herein represents the net amount of Dr. Armen's salary for the pay period ending June 12th, 2026. Such shares are issued in accordance with the Amended and Restated Agenus Inc. 2019 Equity Incentive are fully vested on the date of issuance.",
+   "F2": "$3.30 is the closing price of our Common Stock on June 12th, 2026, the last trading day for the payroll date for the pay period ending June 12th, 2026.",
+   "F3": "Shares are held in Dr. Armen's IRA accounts.",
+   "F4": "Dr. Armen is trustee and has investment authority for the Garo Armen 2020 2 Year AG GRAT holder of 23,950 shares of our Common Stock. Dr. Armen is a general partner in Pixie Partners, a General Partnership (\"Pixie\"), which as of the date of this report owns 5,000 shares of our Common Stock. Dr. Armen has a pecuniary interest in only a portion of the shares held by Pixie and disclaims beneficial ownership to the extent of his pecuniary interest therein."
+  }
+ },
+ {
+  "adsh": "0001193125-26-272680",
+  "issuer": "CONOCOPHILLIPS",
+  "ticker": "COP",
+  "owners": [
+   {
+    "name": "NIBLOCK ROBERT A",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 322.0,
+  "value": 36121.96,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "The stock units represent ConocoPhillips common stock on a 1-for-1 basis.",
+   "F2": "The reporting person has elected to receive payment in five equal annual installments beginning one year following separation from service, which election may be changed by the reporting person to provide for an alternative schedule of deferred payments.",
+   "F3": "Includes dividend equivalent units acquired through routine transactions that are exempt under rule 16a-11."
+  }
+ },
+ {
+  "adsh": "0001193125-26-277553",
+  "issuer": "Black Diamond Therapeutics, Inc.",
+  "ticker": "BDTX",
+  "owners": [
+   {
+    "name": "Behbahani Ali",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 8961.0,
+  "value": 14875.26,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "These shares were issued in accordance with the Issuer's Sixth Amended and Restated Non-Employee Director Compensation Policy, pursuant to which the Reporting Person elected to receive shares of the Issuer's common stock in lieu of cash compensation for annual services as a non-employee director of the Issuer.",
+   "F2": "The price reported in Column 4 is based upon the closing market price of the Issuer's common stock on June 18, 2026.",
+   "F3": "The Reporting Person is a manager of NEA 16 GP, LLC, which is the sole general partner of NEA Partners 16, L.P. (\"NEA Partners 16\"). NEA Partners 16 is the sole general partner of New Enterprise Associates 16, L.P. (\"NEA 16\"), the direct beneficial owner of the securities. The Reporting Person disclaims beneficial ownership within the meaning of Section 16 of the Securities Exchange Act of 1934, as amended, or otherwise of such portion of the securities held by NEA 16 in which the Reporting Person has no pecuniary interest."
+  }
+ },
+ {
+  "adsh": "0001194106-26-000007",
+  "issuer": "Crocs, Inc.",
+  "ticker": "CROX",
+  "owners": [
+   {
+    "name": "SMACH THOMAS J",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 4108.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "Represents the annual common stock grant to non-employee directors pursuant to the issuer's Board of Directors Compensation Plan.",
+   "F2": "The reporting person is a trustee of the THOMAS J. SMACH 1996 REV TRUST & LINDA M. SMACH 1996 REV TRUST TEN COM and exercises voting and investment power for the shares beneficially owned by the trust.",
+   "F3": "Pursuant to the issuer's Board of Directors Compensation Plan, the reporting person elected to receive restricted stock in lieu of the cash compensation retainer for Board and committee service. The\nrestricted stock vests in four successive quarterly installments from the issuance date. Upon the vesting of each such installment, the stock will be transferred to the THOMAS J. SMACH 1996 REV\nTRUST & LINDA M. SMACH 1996 REV TRUST TEN COM.",
+   "F4": "These shares are held in the name of the reporting person's child. The reporting person disclaims beneficial ownership of these securities, and the filing of this report is not an admission that the reporting person is the beneficial owner of these securities for purposes of Section 16 or for any other purpose, except to the extent of his pecuniary interest."
+  }
+ },
+ {
+  "adsh": "0001197000-26-000006",
+  "issuer": "Autodesk, Inc.",
+  "ticker": "ADSK",
+  "owners": [
+   {
+    "name": "CAHILL JOHN T",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 2174.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "The Reporting Person is entitled to receive one share of Common Stock for each Restricted Stock Unit. These are Restricted Stock Units granted pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan in lieu of cash compensation for services as a director, and vest on the date of the next annual meeting.",
+   "F2": "The total securities beneficially owned includes 621 shares of unvested Restricted Stock Units.",
+   "F3": "The Reporting Person is entitled to receive one share of Common Stock for each Restricted Stock Unit. These Restricted Stock Units, which are granted annually pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan, vest on the date of the next annual meeting.",
+   "F4": "The total securities beneficially owned includes 2,174 shares of unvested Restricted Stock Units."
+  }
+ },
+ {
+  "adsh": "0001213900-26-064468",
+  "issuer": "Datasea Intelligent Technology Ltd.",
+  "ticker": "DTSS",
+  "owners": [
+   {
+    "name": "Liu Fu",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 5,
+  "codes": [
+   "A",
+   "D"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 2730061.0,
+  "value": 3031439.52,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "The Reporting Person was issued shares of the common stock, par value $0.001 per share (the \"Common Stock\") of Datasea Inc. (\"Datasea\"), the predecessor of the Issuer, as compensation in lieu of cash.",
+   "F2": "The Reporting Person was issued shares of the Common Stock of Datasea as payment of accrued and unpaid salary.",
+   "F3": "On November 20, 2025, Datasea entered into an intellectual property purchase agreement with Mr. Fu Liu, pursuant to which Mr. Fu Liu transferred to Datasea two intangible assets (software copyrights) owned by himself. Datasea granted Fu Liu 533,504 shares of restricted Common Stock of Datasea as consideration for such purchase.",
+   "F4": "Effective on April 16, 2026, Datasea merged with and into the Issuer, with the Issuer as the surviving company. Upon the merger, 2,000,000 shares of the Common Stock held by the Reporting Person were converted into 2,000,000 class B ordinary shares, with no par value, of the Issuer (the \"Class B Ordinary Shares\"). The remaining Common Stock held by the Reporting Person were converted into an equal number of the class A ordinary shares, with no par value, of the Issuer (the \"Class A Ordinary Shares\")."
+  }
+ },
+ {
+  "adsh": "0001213900-26-064469",
+  "issuer": "Datasea Intelligent Technology Ltd.",
+  "ticker": "DTSS",
+  "owners": [
+   {
+    "name": "Liu Zhixin",
+    "dir": true,
+    "off": true,
+    "title": "CEO"
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 5,
+  "codes": [
+   "A",
+   "D"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 3053458.0,
+  "value": 3451230.96,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "The Reporting Person was issued shares of the common stock, par value $0.001 per share (the \"Common Stock\") of Datasea Inc. (\"Datasea\"), the predecessor of the Issuer, as compensation in lieu of cash.",
+   "F2": "The Reporting Person was issued shares of the Common Stock of Datasea as payment of accrued and unpaid salary.",
+   "F3": "On November 20, 2025, Datasea entered into an intellectual property purchase agreement with Ms. Zhixin Liu, pursuant to which Ms. Zhixin Liu transferred to the Company three intangible assets (software copyrights). Datasea decided to grant Ms. Zhixin Liu 842,936 shares of restricted Common Stock as consideration for such purchase.",
+   "F4": "Effective on April 16, 2026, Datasea merged with and into the Issuer, with the Issuer as the surviving company. Upon the merger, 2,000,000 shares of the Common Stock held by the Reporting Person were converted into 2,000,000 class B ordinary shares, with no par value, of the Issuer (the \"Class B Ordinary Shares\"). The remaining Common Stock held by the Reporting Person were converted into an equal number of the class A ordinary shares, with no par value, of the Issuer (the \"Class A Ordinary Shares\")."
+  }
+ },
+ {
+  "adsh": "0001214606-26-000009",
+  "issuer": "Clear Secure, Inc.",
+  "ticker": "YOU",
+  "owners": [
+   {
+    "name": "BOYD JEFFERY H",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 5636.0,
+  "value": 82525.66,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Represents Deferred Restricted Stock Units (\"DSUs\"), each of which represents a contingent right to receive a share of Class A Common Stock of the Issuer on a future date. The DSUs will vest upon the earlier of (i) June 10, 2027 or (ii) the Issuer's next annual meeting of stockholders, generally subject to the reporting person's continued service; the DSUs generally will not be settled into shares of Class A Common Stock until after the reporting person's departure from the board of directors.",
+   "F2": "The reporting person elected to receive DSUs in lieu of cash retainer payments for service on the Issuer's board of directors. The price of the DSUs reported herein represents the 20-trading day average closing market price of the Issuer's Class A common stock for the period ending June 10, 2026, which price was used to calculate the number of DSUs issued to the Reporting Person. The DSUs will vest in four quarterly installments starting September 30, 2026, generally subject to the reporting person's continued service; the DSUs generally will not be settled into shares of Class A Common Stock until after the reporting person's departure from the board of directors."
+  }
+ },
+ {
+  "adsh": "0001214659-26-007695",
+  "issuer": "Park Hotels & Resorts Inc.",
+  "ticker": "PK",
+  "owners": [
+   {
+    "name": "Bedient Patricia M",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 1986.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "The reporting person has elected to receive an award of shares of the issuer's unrestricted common stock (\"Common Stock\") under the Park Hotels & Resorts Inc. 2017 Stock Plan for Non-Employee Directors, as amended and restated, in lieu of cash fees payable to the reporting person for service on the issuer's board of directors during the 2nd quarter of 2026 (\"Board Fee\"). The Common Stock was granted on the fifth business day prior to the date that such fees would otherwise have been payable, June 23, 2026, and vested immediately. The Common Stock had a market value based on the closing sales price of the issuer's common stock reported on the New York Stock Exchange on the grant date."
+  }
+ },
+ {
+  "adsh": "0001214659-26-007696",
+  "issuer": "Park Hotels & Resorts Inc.",
+  "ticker": "PK",
+  "owners": [
+   {
+    "name": "NATELLI THOMAS A",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 1814.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "The reporting person has elected to receive an award of shares of the issuer's unrestricted common stock (\"Common Stock\") under the Park Hotels & Resorts Inc. 2017 Stock Plan for Non-Employee Directors, as amended and restated, in lieu of cash fees payable to the reporting person for service on the issuer's board of directors during the 2nd quarter of 2026 (\"Board Fee\"). The Common Stock was granted on the fifth business day prior to the date that such fees would otherwise have been payable, June 23, 2026, and vested immediately. The Common Stock had a market value based on the closing sales price of the issuer's common stock reported on the New York Stock Exchange on the grant date.",
+   "F2": "Shares are owned by a limited partnership, of which the reporting person is a 50% owner and the president of the limited partnership's general partner.",
+   "F3": "Shares are owned by a limited liability company, of which the reporting person is a 50% owner and managing member."
+  }
+ },
+ {
+  "adsh": "0001214659-26-007697",
+  "issuer": "Park Hotels & Resorts Inc.",
+  "ticker": "PK",
+  "owners": [
+   {
+    "name": "NAUGHTON TIMOTHY J",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 1814.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "The reporting person has elected to receive an award of shares of the issuer's unrestricted common stock (\"Common Stock\") under the Park Hotels & Resorts Inc. 2017 Stock Plan for Non-Employee Directors, as amended and restated, in lieu of cash fees payable to the reporting person for service on the issuer's board of directors during the 2nd quarter of 2026 (\"Board Fee\"). The Common Stock was granted on the fifth business day prior to the date that such fees would otherwise have been payable, June 23, 2026, and vested immediately. The Common Stock had a market value based on the closing sales price of the issuer's common stock reported on the New York Stock Exchange on the grant date."
+  }
+ },
+ {
+  "adsh": "0001214659-26-007709",
+  "issuer": "Reservoir Media, Inc.",
+  "ticker": "RSVR",
+  "owners": [
+   {
+    "name": "ER Reservoir LLC",
+    "dir": false,
+    "off": false,
+    "title": null
+   },
+   {
+    "name": "Richmond Hill Investments, LLC",
+    "dir": false,
+    "off": false,
+    "title": null
+   },
+   {
+    "name": "Richmond Hill Investment Co., LP",
+    "dir": false,
+    "off": false,
+    "title": null
+   },
+   {
+    "name": "Richmond Hill Capital Management, LLC",
+    "dir": false,
+    "off": false,
+    "title": null
+   },
+   {
+    "name": "Taylor Ryan P.",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 492.0,
+  "value": 4993.8,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "The shares being reported represent Deferred Stock Units (\"DSUs\") awarded under the Reservoir Media, Inc. 2021 Omnibus Incentive Plan (the \"Plan\") to Ryan P. Taylor. Each DSU is the economic equivalent of one share of common stock, $0.0001 par value per share (the \"Common Stock\"), of Reservoir Media, Inc. (the \"Issuer\"). The DSUs were issued in connection with Mr. Taylor's quarterly compensation for service as a non-employee director. Mr. Taylor elected to receive payment of his quarterly compensation in DSUs in lieu of cash. The DSUs will be settled in shares of Common Stock on July 28, 2027 (the \"Settlement Date\").",
+   "F2": "The number of DSUs received was calculated based on $10.15, which was the closing price of the Issuer's Common Stock on the date of grant.",
+   "F3": "Amount of securities beneficially owned following the reported transaction includes 10,430 shares of Common Stock underlying Restricted Stock Units (\"RSUs\") and 3,165 shares of Common Stock underlying DSUs awarded to Mr. Taylor for service as a non-employee director of the Issuer.  Due to his position as the manager of the general partner of a manager of ER Reservoir LLC (the \"Fund\"), Mr. Taylor has directed the Issuer to transfer shares issued upon settlement of the RSUs and DSUs into the account of the Fund on the applicable Settlement Date. Mr. Taylor disclaims beneficial ownership of the underlying shares except to the extent of his pecuniary interest therein.",
+   "F4": "The Reporting Persons listed on this Form 4 may be deemed members of a group holding equity securities of the Issuer. The filing of this Form 4 shall not be deemed to be an admission that the Reporting Persons are members of such group.",
+   "F5": "The amount of securities shown in this row is owned directly by the Fund. As a manager of the Fund, Richmond Hill Investments, LLC (the \"RHI Manager\") may be deemed to be a beneficial owner of 9,897,970 of the Issuer's securities held by the Fund. As a manager of the Fund, Richmond Hill Investment Co., LP (the \"RHIC Manager\") may be deemed to be a beneficial owner of 3,754,402 of the Issuer's securities held by the Fund. As the general partner of the RHIC Manager, Richmond Hill Capital Management, LLC (the \"General Partner\") may be deemed to be a beneficial owner of 3,754,402 of the Issuer's securities held by the Fund. (continued in footnote 6)",
+   "F6": "(Continued from footnote 5) As the manager of the General Partner, Ryan P. Taylor may be deemed to be a beneficial owner of 3,754,402 of the Issuer's securities held by the Fund. The amount of securities shown in this row also reflects a transfer of a total of 59,579 shares of Common Stock received upon the settlement of previously issued RSUs and DSUs that Mr. Taylor directed to be transferred to the account of the Fund due to his position as the manager of the general partner of a manager of the Fund. Each of the RHI Manager, the RHIC Manager, the General Partner and Mr. Taylor disclaims any beneficial ownership of any of the Issuer's securities reported herein for purposes of Section 16 of the Exchange Act or otherwise, except to the extent of its or his respective pecuniary interest therein.",
+   "F7": "The Reporting Persons listed on this Form 4 may be deemed members of a group with Essex Equity Joint Investment Vehicle, LLC and certain of its affiliates (collectively, the \"Essex Entities\") and Richmond Hill Capital Partners, LP and certain of its affiliates (collectively, the \"RHCP Entities\"), which have each previously filed a Form 3 and Forms 4 with respect to equity securities of the Issuer. The filing of this Form 4 shall not be deemed to be an admission that the Reporting Persons are members of such a group with any of the Essex Entities or the RHCP Entities and the Reporting Persons disclaim beneficial ownership of any securities beneficially owned by the Essex Entities and the RHCP Entities, except to the extent of their pecuniary interests therein."
+  }
+ },
+ {
+  "adsh": "0001215150-26-000008",
+  "issuer": "MARRIOTT VACATIONS WORLDWIDE Corp",
+  "ticker": "VAC",
+  "owners": [
+   {
+    "name": "ANDREWS CHARLES ELLIOTT",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 97.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "The Reporting Person elected to receive any dividends with respect to the Non-Employee Director Share Awards issued to the Reporting Person in the form of additional Non-Employee Director Share Awards. Such additional awards vest immediately upon issuance and are payable in common stock as specified by the Reporting Person at the time of the deferral election."
+  }
+ },
+ {
+  "adsh": "0001218163-26-000003",
+  "issuer": "Crocs, Inc.",
+  "ticker": "CROX",
+  "owners": [
+   {
+    "name": "TREFF DOUGLAS J",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 2543.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "Represents the annual common stock grant to non-employee directors pursuant to the issuer's Board of Directors Compensation Plan.",
+   "F2": "Pursuant to the issuer's Board of Directors Compensation Plan, the reporting person elected to receive restricted stock in lieu of the cash compensation retainer for Board and committee service. The\nrestricted stock vests in four successive quarterly installments from the issuance date."
+  }
+ },
+ {
+  "adsh": "0001219871-26-000003",
+  "issuer": "ARDELYX, INC.",
+  "ticker": "ARDX",
+  "owners": [
+   {
+    "name": "MOTT DAVID M",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 3,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 86452.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "The shares were issued pursuant to the Issuer's Non-Employee Director Compensation Program. The Reporting Person elected to receive stock in lieu of cash as permitted under the program.",
+   "F2": "The Reporting Person holds 87,566 shares for the benefit of entities associated with New Enterprise Associates and disclaims beneficial ownership of such shares, except to the extent of his actual pecuniary interest therein.",
+   "F3": "Restricted stock units (\"RSUs\"). The Reporting Person is entitled to receive one (1) share of Common Stock for each one (1) RSU upon the vesting thereof. The RSUs were issued pursuant to the Issuer's Non-Employee Director Compensation Program.",
+   "F4": "The option was issued pursuant to the Issuer's Non-Employee Director Compensation Program.",
+   "F5": "The option vests with respect to 1/12th of the shares subject thereto on each monthly anniversary of the grant date, which vesting will accelerate in full on the date of the next annual stockholder's meeting to the extent unvested as of such date, subject to continued service through each applicable vesting date."
+  }
+ },
+ {
+  "adsh": "0001222650-26-000002",
+  "issuer": "Customers Bancorp, Inc.",
+  "ticker": "CUBI",
+  "owners": [
+   {
+    "name": "ROTHERMEL DANIEL K",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 385.0,
+  "value": 30110.85,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "This stock was issued to the reporting person in lieu of cash for director compensation for Q2 2026."
+  }
+ },
+ {
+  "adsh": "0001224316-26-000002",
+  "issuer": "OMEGA HEALTHCARE INVESTORS INC",
+  "ticker": "OHI",
+  "owners": [
+   {
+    "name": "CALLEN CRAIG R",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A",
+   "M"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 9708.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "Represents Profits Interest Units (\"PIUs\") in OHI Healthcare Properties Limited Partnership (the \"Operating Partnership\"), of which the Issuer is the general partner. Each PIU represents a contingent right to receive one unit of limited partnership interest (an \"OP Unit\") in the Operating Partnership upon vesting and the satisfaction of certain tax-driven economic requirements.",
+   "F2": "Each OP Unit is redeemable at the election of the holder for cash equal to the then fair market value of one share of Issuer common stock, or at the Issuer's election, one share of Issuer common stock, subject to adjustment as set forth in the partnership agreement. The OP Units have no expiration date.",
+   "F3": "100% of the reporting person's PIUs granted on June 6, 2025 vested and converted into OP Units on June 5, 2026.",
+   "F4": "Represents the annual grant of stock the reporting person elected to receive as Profits Interest Units.",
+   "F5": "100% of the reporting person's PIUs granted on June 5, 2026 will vest on the date of the Company's 2027 Annual Meeting of Shareholders, subject to continued service."
+  }
+ },
+ {
+  "adsh": "0001225208-26-005684",
+  "issuer": "Everus Construction Group, Inc.",
+  "ticker": "ECG",
+  "owners": [
+   {
+    "name": "Ryan Edward A",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 100.0,
+  "value": 15472.0,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Pursuant to the issuer's director compensation policy, the reporting person elected to receive common stock in lieu of the cash compensation retainer for service on the issuer's board of directors."
+  }
+ },
+ {
+  "adsh": "0001225208-26-005685",
+  "issuer": "Everus Construction Group, Inc.",
+  "ticker": "ECG",
+  "owners": [
+   {
+    "name": "Rosenthal Dale",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 169.0,
+  "value": 26147.68,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Pursuant to the issuer's director compensation policy, the reporting person elected to receive common stock in lieu of the cash compensation retainer for service on the issuer's board of directors."
+  }
+ },
+ {
+  "adsh": "0001228718-26-000004",
+  "issuer": "Autodesk, Inc.",
+  "ticker": "ADSK",
+  "owners": [
+   {
+    "name": "Epstein Jeff",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 2019.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "The Reporting Person is entitled to receive one share of Common Stock for each Restricted Stock Unit. These are Restricted Stock Units granted pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan in lieu of cash compensation for services as a director, and vest on the date of the next annual meeting.",
+   "F2": "The total securities beneficially owned includes 466 shares of unvested Restricted Stock Units the distribution of which the reporting person has deferred pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan.",
+   "F3": "The Reporting Person is entitled to receive one share of Common Stock for each Restricted Stock Unit. These Restricted Stock Units, which are granted annually pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan, vest on the date of the next annual meeting.",
+   "F4": "The total securities beneficially owned includes 2,019 shares of unvested Restricted Stock Units the distribution of which the reporting person has deferred pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan."
+  }
+ },
+ {
+  "adsh": "0001240076-26-000002",
+  "issuer": "Customers Bancorp, Inc.",
+  "ticker": "CUBI",
+  "owners": [
+   {
+    "name": "BUFORD ROBERT J",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 849.0,
+  "value": 66400.29,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "This stock was issued to the reporting person in lieu of cash for director compensation for Q2 2026."
+  }
+ },
+ {
+  "adsh": "0001243126-26-000004",
+  "issuer": "NIQ Global Intelligence plc",
+  "ticker": "NIQ",
+  "owners": [
+   {
+    "name": "LACHMAN TODD R",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 22182.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "Grant of 22,182 restricted share units (RSUs). Each RSU represents a contingent right to receive one ordinary share of the Issuer. The RSUs vest in full on the earlier of 1) the first anniversary of the vesting commencement date of May 28, 2026, or 2) the date of the next annual general meeting of stockholders of the Issuer.",
+   "F2": "Represents shares held by AI PAVE (Luxembourg) Management & Cy S.C.Sp. for the benefit of the reporting person and will be directly held by the reporting person following vesting under the applicable award agreement.",
+   "F3": "Represents shares held by AI Global Investments (Netherlands) PCC Limited-PAVE Cell that the reporting person has elected to receive upon redemption of partnership units that represent indirect interests in the shares."
+  }
+ },
+ {
+  "adsh": "0001252544-26-000011",
+  "issuer": "MARRIOTT VACATIONS WORLDWIDE Corp",
+  "ticker": "VAC",
+  "owners": [
+   {
+    "name": "SHAW WILLIAM JOSEPH",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 24.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "The Reporting Person elected to receive any dividends with respect to the Non-Employee Director Share Awards issued to the Reporting Person in the form of additional Non-Employee Director Share Awards. Such additional awards vest immediately upon issuance and are payable in common stock as specified by the Reporting Person at the time of the deferral election."
+  }
+ },
+ {
+  "adsh": "0001256358-26-000002",
+  "issuer": "Autodesk, Inc.",
+  "ticker": "ADSK",
+  "owners": [
+   {
+    "name": "BLASING KAREN",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 2143.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "The Reporting Person is entitled to receive one share of Common Stock for each Restricted Stock Unit. These are Restricted Stock Units granted pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan in lieu of cash compensation for services as a director, and vest on the date of the next annual meeting.",
+   "F2": "The total securities beneficially owned includes 590 shares of unvested Restricted Stock Units and 4,249 shares of vested Restricted Stock Units the distribution of which the reporting person has\ndeferred pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan.",
+   "F3": "The Reporting Person is entitled to receive one share of Common Stock for each Restricted Stock Unit. These Restricted Stock Units, which are granted annually pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan, vest on the date of the next annual meeting.",
+   "F4": "The total securities beneficially owned includes 2,143 shares of unvested Restricted Stock Units and 4,249 shares of vested Restricted Stock Units the distribution of which the reporting person has deferred pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan."
+  }
+ },
+ {
+  "adsh": "0001262388-26-000012",
+  "issuer": "ELI LILLY & Co",
+  "ticker": "LLY",
+  "owners": [
+   {
+    "name": "Sulzberger Gabrielle",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 4.3904,
+  "value": 4958.3,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "At the election of the reporting person, the shares acquired pursuant to this filing have been deferred in lieu of cash compensation as stock units under the Lilly Directors' Deferral Plan and will be settled in shares of common stock following the reporting person's separation from service."
+  }
+ },
+ {
+  "adsh": "0001285785-26-000081",
+  "issuer": "MOSAIC CO",
+  "ticker": "MOS",
+  "owners": [
+   {
+    "name": "WESTBROOK KELVIN R",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A",
+   "M"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 7273.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "The reporting person, pursuant to the terms of the Restricted Stock Unit Agreement under which the award of restricted stock units was made, elected to receive 50% of the restricted stock units in the form of cash with the balance paid in the form of shares of common stock at the time the award was paid.",
+   "F2": "One-for-One",
+   "F3": "The restricted stock units will vest and be paid to the reporting person on the date of the issuer's 2027 Annual Meeting of Stockholders.",
+   "F4": "Not Applicable",
+   "F5": "The restricted stock units vested on the date of the issuer's 2026 Annual Meeting of Stockholders."
+  }
+ },
+ {
+  "adsh": "0001285785-26-000084",
+  "issuer": "MOSAIC CO",
+  "ticker": "MOS",
+  "owners": [
+   {
+    "name": "Seaton David Thomas",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A",
+   "M"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 7273.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "The reporting person, pursuant to the terms of the Restricted Stock Unit Agreement under which the award of restricted stock units was made, elected to receive 35% of the restricted stock units in the form of cash with the balance paid in the form of shares of common stock at the time the award was paid.",
+   "F2": "One-for-One",
+   "F3": "The restricted stock units will vest and be paid to the reporting person on the date of the issuer's 2027 Annual Meeting of Stockholders.",
+   "F4": "Not Applicable",
+   "F5": "The restricted stock units vested on the date of the issuer's 2026 Annual Meeting of Stockholders."
+  }
+ },
+ {
+  "adsh": "0001285785-26-000085",
+  "issuer": "MOSAIC CO",
+  "ticker": "MOS",
+  "owners": [
+   {
+    "name": "BEEBE CHERYL K",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A",
+   "M"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 7273.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "The reporting person, pursuant to the terms of the Restricted Stock Unit Agreement under which the award of restricted stock units was made, elected to receive 50% of the restricted stock units in the form of cash with the balance paid in the form of shares of common stock at the time the award was paid.",
+   "F2": "One-for-One",
+   "F3": "The restricted stock units will vest and be paid to the reporting person on the date of the issuer's 2027 Annual Meeting of Stockholders.",
+   "F4": "Not Applicable",
+   "F5": "The restricted stock units vested on the date of the issuer's 2026 Annual Meeting of Stockholders."
+  }
+ },
+ {
+  "adsh": "0001291937-26-000003",
+  "issuer": "ARDELYX, INC.",
+  "ticker": "ARDX",
+  "owners": [
+   {
+    "name": "Bertrand William C JR",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 3,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 78515.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "The shares were issued pursuant to the Issuer's Non-Employee Director Compensation Program. The Reporting Person elected to receive stock in lieu of cash as permitted under the program.",
+   "F2": "Restricted stock units (\"RSUs\"). The Reporting Person is entitled to receive one (1) share of Common Stock for each one (1) RSU upon the vesting thereof. The RSUs were issued pursuant to the Issuer's Non-Employee Director Compensation Program.",
+   "F3": "The option was issued pursuant to the Issuer's Non-Employee Director Compensation Program.",
+   "F4": "The option vests with respect to 1/12th of the shares subject thereto on each monthly anniversary of the grant date, which vesting will accelerate in full on the date of the next annual stockholder's meeting to the extent unvested as of such date, subject to continued service through each applicable vesting date."
+  }
+ },
+ {
+  "adsh": "0001292209-26-000008",
+  "issuer": "GENERAL DYNAMICS CORP",
+  "ticker": "GD",
+  "owners": [
+   {
+    "name": "Reynolds Catherine B",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 104.0,
+  "value": 37424.4,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Reflects stock received in lieu of director fees in accordance with outside directors' compensation program."
+  }
+ },
+ {
+  "adsh": "0001299140-26-000010",
+  "issuer": "Sylvamo Corp",
+  "ticker": "SLVM",
+  "owners": [
+   {
+    "name": "PETRATIS DAVID D",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 10207.0,
+  "value": 395010.9,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "This Form 4/A amends the Form 4 originally filed on May 19, 2026, to correct the number of shares reported as acquired. The number of shares originally reported was understated due to administrative error. The corrected number of shares acquired is 10,207.",
+   "F2": "The reported securities represent 3,876 time-based restricted stock units (\"RSUs\") and 6,331 RSUs that the reporting person elected to receive in lieu of a cash retainer. The RSUs will vest one-for-one in common stock on the earlier of May 13, 2027, or the next annual shareowners meeting. The reporting person has elected to defer the settlement of vested RSUs until the first to occur of May 13, 2032, or the termination of his service as a director. The RSUs were granted to the reporting person on May 15, 2026, for service as a director for the 2026-2027 performance year."
+  }
+ },
+ {
+  "adsh": "0001300572-26-000008",
+  "issuer": "MARRIOTT VACATIONS WORLDWIDE Corp",
+  "ticker": "VAC",
+  "owners": [
+   {
+    "name": "Morgan Dianna",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 24.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "The Reporting Person elected to receive any dividends with respect to the Non-Employee Director Share Awards issued to the Reporting Person in the form of additional Non-Employee Director Share Awards. Such additional awards vest immediately upon issuance and are payable in common stock as specified by the Reporting Person at the time of the deferral election."
+  }
+ },
+ {
+  "adsh": "0001310215-26-000011",
+  "issuer": "ELI LILLY & Co",
+  "ticker": "LLY",
+  "owners": [
+   {
+    "name": "Alvarez Ralph",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 10.9945,
+  "value": 12416.64,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "At the election of the reporting person, the shares acquired pursuant to this filing have been deferred in lieu of cash compensation as stock units under the Lilly Directors' Deferral Plan and will be settled in shares of common stock following the reporting person's separation from service.",
+   "F2": "The Reporting Person disclaims beneficial ownership of the reported securities except to the extent of his pecuniary interest therein."
+  }
+ },
+ {
+  "adsh": "0001319245-26-000010",
+  "issuer": "GENERAL DYNAMICS CORP",
+  "ticker": "GD",
+  "owners": [
+   {
+    "name": "Schumacher Laura J",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 104.0,
+  "value": 37424.4,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Reflects stock received in lieu of director fees in accordance with outside directors' compensation program."
+  }
+ },
+ {
+  "adsh": "0001373147-26-000008",
+  "issuer": "GENERAL DYNAMICS CORP",
+  "ticker": "GD",
+  "owners": [
+   {
+    "name": "Nye C Howard",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 52.0,
+  "value": 18712.2,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Reflects stock received in lieu of director fees in accordance with outside directors' compensation program."
+  }
+ },
+ {
+  "adsh": "0001385262-26-000015",
+  "issuer": "GENERAL DYNAMICS CORP",
+  "ticker": "GD",
+  "owners": [
+   {
+    "name": "Stratton John G",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 104.0,
+  "value": 37424.4,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Reflects stock received in lieu of director fees in accordance with outside directors' compensation program."
+  }
+ },
+ {
+  "adsh": "0001403625-26-000009",
+  "issuer": "RAYONIER INC",
+  "ticker": "RYN",
+  "owners": [
+   {
+    "name": "BASS KEITH E",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 1047.0,
+  "value": 21871.83,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Reflects the number of common shares issued to the Reporting Person in payment of the Reporting Person's quarterly retainer in lieu of cash for Q1 2026 pursuant to the Reporting Person's election\nto participate in the Non-Employee Director Compensation Election to Receive Shares in Lieu of Cash."
+  }
+ },
+ {
+  "adsh": "0001437749-26-019032",
+  "issuer": "HEALTHSTREAM INC",
+  "ticker": "HSTM",
+  "owners": [
+   {
+    "name": "GORDON FRANK",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 5136.0,
+  "value": 36501.66,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Shares represent stock the reporting person elected to receive in lieu of cash payable for service on the Company's Board of Directors.",
+   "F2": "Each restricted share unit (RSU) represents the contingent right to receive one share of common stock upon vesting of the unit.",
+   "F3": "The RSU's are subject to a three year vesting schedule, contingent upon continued service at the time of vesting. The RSU's vest annually beginning May 28, 2027 in three equal installments.",
+   "F4": "Not applicable."
+  }
+ },
+ {
+  "adsh": "0001437749-26-019994",
+  "issuer": "Imunon, Inc.",
+  "ticker": "IMNN",
+  "owners": [
+   {
+    "name": "Lindborg Stacy",
+    "dir": true,
+    "off": true,
+    "title": "President and CEO"
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 1593.0,
+  "value": 3281.58,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Stock granted in lieu of cash for portion of base salary"
+  }
+ },
+ {
+  "adsh": "0001437749-26-020037",
+  "issuer": "Imunon, Inc.",
+  "ticker": "IMNN",
+  "owners": [
+   {
+    "name": "Tardugno Michael H",
+    "dir": true,
+    "off": true,
+    "title": "Executive Chairman of Board"
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 4089.0,
+  "value": 8423.34,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Stock granted in lieu of cash for base salary",
+   "F2": "Shares were rolled over from 401(k) Plan"
+  }
+ },
+ {
+  "adsh": "0001437749-26-021444",
+  "issuer": "Imunon, Inc.",
+  "ticker": "IMNN",
+  "owners": [
+   {
+    "name": "Lindborg Stacy",
+    "dir": true,
+    "off": true,
+    "title": "President and CEO"
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 1803.0,
+  "value": 3281.46,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Stock granted in lieu of cash for portion of base salary"
+  }
+ },
+ {
+  "adsh": "0001437749-26-021484",
+  "issuer": "Imunon, Inc.",
+  "ticker": "IMNN",
+  "owners": [
+   {
+    "name": "Tardugno Michael H",
+    "dir": true,
+    "off": true,
+    "title": "Executive Chairman of Board"
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 4629.0,
+  "value": 8424.78,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Stock granted in lieu of cash for base salary"
+  }
+ },
+ {
+  "adsh": "0001444238-26-000010",
+  "issuer": "MARRIOTT VACATIONS WORLDWIDE Corp",
+  "ticker": "VAC",
+  "owners": [
+   {
+    "name": "Avril Matthew E",
+    "dir": true,
+    "off": true,
+    "title": "Chief Executive Officer"
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 27.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "The Reporting Person elected to receive any dividends with respect to the Non-Employee Director Share Awards issued to the Reporting Person in the form of additional Non-Employee Director Share Awards. Such additional awards vest immediately upon issuance and are payable in common stock as specified by the Reporting Person at the time of the deferral election."
+  }
+ },
+ {
+  "adsh": "0001492275-26-000009",
+  "issuer": "Autodesk, Inc.",
+  "ticker": "ADSK",
+  "owners": [
+   {
+    "name": "Irving Blake",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 2112.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "The Reporting Person is entitled to receive one share of Common Stock for each Restricted Stock Unit. These are Restricted Stock Units granted pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan in lieu of cash compensation for services as a director, and vest on the date of the next annual meeting.",
+   "F2": "The total securities beneficially owned includes 559 shares of unvested Restricted Stock Units.",
+   "F3": "The Reporting Person is entitled to receive one share of Common Stock for each Restricted Stock Unit. These Restricted Stock Units, which are granted annually pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan, vest on the date of the next annual meeting.",
+   "F4": "The total securities beneficially owned includes 2,112 shares of unvested Restricted Stock Units."
+  }
+ },
+ {
+  "adsh": "0001501578-26-000004",
+  "issuer": "Reservoir Media, Inc.",
+  "ticker": "RSVR",
+  "owners": [
+   {
+    "name": "Taylor Ryan P.",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 492.0,
+  "value": 4993.8,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Represents Deferred Stock Units (\"DSUs\") awarded under the Reservoir Media, Inc. 2021 Omnibus Incentive Plan (the \"Plan\"). Each DSU is the economic equivalent of one share of common stock, $0.0001 par value per share (the \"Common Stock\"), of Reservoir Media, Inc. (the \"Issuer\"). The Reporting Person acquired these DSUs in connection with the Reporting Person's quarterly compensation for service as a non-employee director of the Issuer. The Reporting Person elected to receive payment of his quarterly compensation in DSUs in lieu of cash. This issuance of DSUs will be settled in shares of Common Stock on July 28, 2027 (the \"Settlement Date\").  The Reporting Person disclaims beneficial ownership of the underlying shares except to the extent of his pecuniary interest therein.",
+   "F2": "The number of DSUs received was calculated based on $10.15, which was the closing price of the Issuer's Common Stock on the date of grant.",
+   "F3": "Represents Restricted Stock Units (\"RSUs\") and DSUs awarded in connection with the Reporting Person's compensation for service as a non-employee director of the Issuer. Due to his position as the manager of the general partner of a manager of ER Reservoir LLC (the \"Fund\"), Reporting Person has directed the issuer to to transfer shares upon settlement of the RSUs and DSUs into the account of the Fund on the applicable Settlement Date. The Reporting Person disclaims beneficial ownership of the underlying shares except to the extent of his pecuniary interest therein.",
+   "F4": "The amount of securities shown in this row is owned directly by Richmond Hill Capital Partners, LP (\"RHCP\"). The Reporting Person is the managing member of the general partner of RHCP and the manager of the general partner of Richmond Hill Investment Co., LP, the investment adviser to RHCP, and may be deemed to be a beneficial owner of the shares owned by RHCP. The Reporting Person disclaims any beneficial ownership of any of the Issuer's securities reported herein for purposes of Section 16 of the Securities Exchange Act of 1934, as amended (the \"Exchange Act\") or otherwise, except to the extent of his pecuniary interest therein, and the inclusion of the shares in this report shall not be deemed an admission of beneficial ownership of the reported shares for purposes of Section 16 of the Exchange Act, or for any other purpose.",
+   "F5": "The amount of securities shown in this row is owned directly by the Fund. The Reporting Person is the manager of the general partner of a manager of the Fund and may be deemed to be a beneficial owner of the shares owned by the Fund. The amount of securities shown in this row also reflects a transfer of a total of 59,579 shares of Common Stock received upon the settlement of previously issued RSUs and DSUs that the Reporting Person directed to be transferred into the account of the Fund due to his position as the manager of the general partner of a manager of the Fund (Cont'd in FN 6)",
+   "F6": "(Cont'd from FN 5) The Reporting Person disclaims any beneficial ownership of any of the Issuer's securities reported herein for purposes of Section 16 of the Exchange Act or otherwise, except to the extent of his pecuniary interest therein, and the inclusion of the shares in this report shall not be deemed an admission of beneficial ownership of the reported shares for purposes of Section 16 of the Exchange Act, or for any other purpose. The amount of 418,576 shares of Common Stock owned directly by Essex Equity Joint Investment Vehicle, LLC previously reported on Form 4's by the Reporting Person have been removed from this and any subsequent Form 4's of the Reporting Person with respect to the Common Stock of the Issuer as such shares of Common Stock are no longer deemed to be beneficially owned by the Reporting Person."
+  }
+ },
+ {
+  "adsh": "0001527821-26-000002",
+  "issuer": "Customers Bancorp, Inc.",
+  "ticker": "CUBI",
+  "owners": [
+   {
+    "name": "Way T Lawrence",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 849.0,
+  "value": 66400.29,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "This stock was issued to the reporting person in lieu of cash for director compensation for Q2 2026."
+  }
+ },
+ {
+  "adsh": "0001528088-26-000002",
+  "issuer": "Customers Bancorp, Inc.",
+  "ticker": "CUBI",
+  "owners": [
+   {
+    "name": "Zuckerman Steven J",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 958.0,
+  "value": 74925.18,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "This stock was issued to the reporting person in lieu of cash for director compensation for Q2 2026.",
+   "F2": "Steven J. Zuckerman Revocable Trust.",
+   "F3": "The reporting person has been appointed as investment advisor for the Victoria H. Zuckerman 2006 Multigenerational Trust u/a/d 8/21/06. The reporting person and members of his immediate family are among the beneficiaries of the trust. The reporting person disclaims beneficial ownership of the CUBI common stock held by the trust except to the extent of his pecuniary interest therein."
+  }
+ },
+ {
+  "adsh": "0001560849-26-000005",
+  "issuer": "Autodesk, Inc.",
+  "ticker": "ADSK",
+  "owners": [
+   {
+    "name": "rahim rami",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 2019.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "The Reporting Person is entitled to receive one share of Common Stock for each Restricted Stock Unit. These are Restricted Stock Units granted pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan in lieu of cash compensation for services as a director, and vest on the date of the next annual meeting.",
+   "F2": "The total securities beneficially owned includes 466 shares of unvested Restricted Stock Units and 3,690 shares of vested Restricted Stock Units the distribution of which the reporting person has deferred pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan.",
+   "F3": "The Reporting Person is entitled to receive one share of Common Stock for each Restricted Stock Unit. These Restricted Stock Units, which are granted annually pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan, vest on the date of the next annual meeting.",
+   "F4": "The total securities beneficially owned includes 2,019 shares of unvested Restricted Stock Units and 3,690 shares of vested Restricted Stock Units the distribution of which the reporting person has deferred pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan."
+  }
+ },
+ {
+  "adsh": "0001583058-26-000008",
+  "issuer": "GENERAL DYNAMICS CORP",
+  "ticker": "GD",
+  "owners": [
+   {
+    "name": "Mattis James N",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 58.0,
+  "value": 20871.3,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Reflects stock received in lieu of director fees in accordance with outside directors' compensation program."
+  }
+ },
+ {
+  "adsh": "0001590364-26-000068",
+  "issuer": "FTAI Aviation Ltd.",
+  "ticker": "FTAI",
+  "owners": [
+   {
+    "name": "GOODWIN PAUL R",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 124.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "Reflects ordinary shares issued at the election of the reporting person in lieu of cash fees as compensation for services provided to the issuer in accordance with the FTAI Aviation Ltd. 2025 Omnibus Incentive Award Plan and the additional terms established by resolution of the Board of Directors. The applicable closing share price was $241.96 on June 12, 2026."
+  }
+ },
+ {
+  "adsh": "0001590364-26-000069",
+  "issuer": "FTAI Aviation Ltd.",
+  "ticker": "FTAI",
+  "owners": [
+   {
+    "name": "ROBINSON RAY M",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 119.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "Reflects ordinary shares issued at the election of the reporting person in lieu of cash fees as compensation for services provided to the issuer in accordance with the FTAI Aviation Ltd. 2025 Omnibus Incentive Award Plan and the additional terms established by resolution of the Board of Directors. The applicable closing share price was $241.96 on June 12, 2026."
+  }
+ },
+ {
+  "adsh": "0001590364-26-000070",
+  "issuer": "FTAI Aviation Ltd.",
+  "ticker": "FTAI",
+  "owners": [
+   {
+    "name": "TUCHMAN MARTIN",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 86.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "Reflects ordinary shares issued at the election of the reporting person in lieu of cash fees as compensation for services provided to the issuer in accordance with the FTAI Aviation Ltd. 2025 Omnibus Incentive Award Plan and the additional terms established by resolution of the Board of Directors. The applicable closing share price was $241.96 on June 12, 2026."
+  }
+ },
+ {
+  "adsh": "0001602273-26-000010",
+  "issuer": "Reservoir Media, Inc.",
+  "ticker": "RSVR",
+  "owners": [
+   {
+    "name": "Rothstein Adam",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 492.0,
+  "value": 4993.8,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Represents Deferred Stock Units (\"DSUs\") awarded under the Reservoir Media, Inc. 2021 Omnibus Incentive Plan (the \"Plan\"). Each DSU is the economic equivalent of one share of common stock, $0.0001 par value per share (the \"Common Stock\"), of Reservoir Media, Inc. (the \"Issuer\"). The Reporting Person acquired these DSUs in connection with the Reporting Person's quarterly compensation for service as a non-employee director of the Issuer. The Reporting Person elected to receive payment of his quarterly compensation in DSUs in lieu of cash. This issuance of DSUs will be settled in shares of Common Stock on January 1, 2027 (the \"Settlement Date\").",
+   "F2": "The number of DSUs received was calculated based on $10.15, which was the closing price of the Issuer's Common Stock on the date of grant."
+  }
+ },
+ {
+  "adsh": "0001628280-26-039795",
+  "issuer": "CURTISS WRIGHT CORP",
+  "ticker": "CW",
+  "owners": [
+   {
+    "name": "Wallace Peter C",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 221.0,
+  "value": 159117.79,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Shares were acquired through the Corporation's 2024 Omnibus Incentive Plan whereby non-employee directors may elect to defer their compensation, including their annual restricted stock award, and/or receive their annual retainer and meeting fees in the form of stock at a later date.",
+   "F2": "Reflects the annual restricted stock award that was earned in 2021, but receipt was deferred to June 1, 2025. Number of shares acquired is calculated based on the value of the award ($125,000) divided by the closing price of $115.24 for the Issuer's common stock as reported by the New York Stock Exchange on February 16, 2021, the date the Board initially approved the award. The number of shares is rounded up to the nearest whole share and includes dividend credits earned on outstanding award. This amount reflects 20% of the Reporting Person's restricted stock award as the reporting person elected to receive the restricted stock in five equal installments beginning June 1, 2025.",
+   "F3": "Price is based on the closing market price for the Issuer's securities on the New York Stock Exchange as of June 1, 2026. The date recipient elected to receive his shares."
+  }
+ },
+ {
+  "adsh": "0001628280-26-039799",
+  "issuer": "CURTISS WRIGHT CORP",
+  "ticker": "CW",
+  "owners": [
+   {
+    "name": "MINOR GLENDA J",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 20.0,
+  "value": 14952.2,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Shares were acquired through the Corporation's 2024 Omnibus Incentive Plan whereby non-employee directors may elect to receive their annual retainer, committee chair, and meeting fees in the form of stock.",
+   "F2": "Number of shares is calculated by taking the amount of the Reporting Person's earned retainer and dividing that amount by the closing price of the Issuer's common stock on the date such retainer was earned.",
+   "F3": "Price is based on the closing market price for the Issuer's securities on the New York Stock Exchange as of May 29, 2026. The date recipient elected to receive her shares."
+  }
+ },
+ {
+  "adsh": "0001628280-26-039853",
+  "issuer": "MORGAN STANLEY",
+  "ticker": "MS",
+  "owners": [
+   {
+    "name": "GLOCER THOMAS H",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 1821.781,
+  "value": 107500.05,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Restricted stock units granted under the Morgan Stanley Directors' Equity Capital Accumulation Plan, which are convertible into shares of Common Stock at a ratio of 1 to 1.",
+   "F2": "Deferred stock units granted under the Morgan Stanley Directors' Equity Capital Accumulation Plan in lieu of cash retainers paid for service on the Morgan Stanley Board of Directors. Stock units are convertible into shares of Common Stock at a ratio of 1 to 1."
+  }
+ },
+ {
+  "adsh": "0001628280-26-039858",
+  "issuer": "MORGAN STANLEY",
+  "ticker": "MS",
+  "owners": [
+   {
+    "name": "Peterson Douglas L.",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 1583.6390000000001,
+  "value": 57499.9,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Restricted stock units granted under the Morgan Stanley Directors' Equity Capital Accumulation Plan, which are convertible into shares of Common Stock at a ratio of 1 to 1.",
+   "F2": "Deferred stock units granted under the Morgan Stanley Directors' Equity Capital Accumulation Plan in lieu of cash retainers paid for service on the Morgan Stanley Board of Directors. Stock units are convertible into shares of Common Stock at a ratio of 1 to 1."
+  }
+ },
+ {
+  "adsh": "0001628280-26-039859",
+  "issuer": "MORGAN STANLEY",
+  "ticker": "MS",
+  "owners": [
+   {
+    "name": "TRAQUINA PERRY M",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 1678.8960000000002,
+  "value": 77500.0,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Restricted stock units granted under the Morgan Stanley Directors' Equity Capital Accumulation Plan, which are convertible into shares of Common Stock at a ratio of 1 to 1.",
+   "F2": "Deferred stock units granted under the Morgan Stanley Directors' Equity Capital Accumulation Plan in lieu of cash retainers paid for service on the Morgan Stanley Board of Directors. Stock units are convertible into shares of Common Stock at a ratio of 1 to 1."
+  }
+ },
+ {
+  "adsh": "0001628280-26-039861",
+  "issuer": "MORGAN STANLEY",
+  "ticker": "MS",
+  "owners": [
+   {
+    "name": "GOOD LYNN J",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 1583.6390000000001,
+  "value": 57499.9,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Restricted stock units granted under the Morgan Stanley Directors' Equity Capital Accumulation Plan, which are convertible into shares of Common Stock at a ratio of 1 to 1.",
+   "F2": "Deferred stock units granted under the Morgan Stanley Directors' Equity Capital Accumulation Plan in lieu of cash retainers paid for service on the Morgan Stanley Board of Directors. Stock units are convertible into shares of Common Stock at a ratio of 1 to 1."
+  }
+ },
+ {
+  "adsh": "0001628280-26-039865",
+  "issuer": "MORGAN STANLEY",
+  "ticker": "MS",
+  "owners": [
+   {
+    "name": "NALLY DENNIS M",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 1655.0810000000001,
+  "value": 72499.82,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Restricted stock units granted under the Morgan Stanley Directors' Equity Capital Accumulation Plan, which are convertible into shares of Common Stock at a ratio of 1 to 1.",
+   "F2": "Deferred stock units granted under the Morgan Stanley Directors' Equity Capital Accumulation Plan in lieu of cash retainers paid for service on the Morgan Stanley Board of Directors. Stock units are convertible into shares of Common Stock at a ratio of 1 to 1."
+  }
+ },
+ {
+  "adsh": "0001628280-26-040777",
+  "issuer": "Postal Realty Trust, Inc.",
+  "ticker": "PSTL",
+  "owners": [
+   {
+    "name": "LEFKOWITZ BARRY",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 7974.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "Following the occurrence of certain events and upon vesting, the LTIP Units are convertible by Postal Realty Trust, Inc. (the \"Issuer\") into an equivalent number of units of the Operating Partnership (\"OP Units\"). OP Units are redeemable by the Reporting Person for cash or, at the election of the Issuer, shares of Class A common stock of the Issuer on a one-for-one basis or the cash value of such shares. LTIP Units do not have expiration dates.",
+   "F2": "Reflects LTIP Unit grants in lieu of cash compensation pursuant to the Issuer's Alignment of Interest Program that vest on the third anniversary of June 2, 2026, subject to certain conditions.",
+   "F3": "The LTIP Units are a class of limited partnership units of Postal Realty LP.",
+   "F4": "The LTIP Units were granted in lieu of cash compensation. The price of the securities acquired by the Reporting Person is based on the volume weighted average price of the Issuer's Class A common stock for the 10 trading days immediately preceding June 2, 2026, which was $23.4503.",
+   "F5": "The LTIP Units will vest ratably on the first, second and third anniversaries of June 2, 2026, subject to continued service on the Issuer's board of directors through the applicable vesting date."
+  }
+ },
+ {
+  "adsh": "0001628280-26-040778",
+  "issuer": "Postal Realty Trust, Inc.",
+  "ticker": "PSTL",
+  "owners": [
+   {
+    "name": "Donahoe Patrick R",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 12579.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "Following the occurrence of certain events and upon vesting, the LTIP Units are convertible by Postal Realty Trust, Inc. (the \"Issuer\") into an equivalent number of units of the Operating Partnership (\"OP Units\"). OP Units are redeemable by the Reporting Person for cash or, at the election of the Issuer, shares of Class A common stock of the Issuer on a one-for-one basis or the cash value of such shares. LTIP Units do not have expiration dates.",
+   "F2": "Reflects LTIP Unit grants in lieu of cash compensation pursuant to the Issuer's Alignment of Interest Program that vest on the third anniversary of June 2, 2026, subject to certain conditions.",
+   "F3": "The LTIP Units are a class of limited partnership units of Postal Realty LP.",
+   "F4": "The LTIP Units were granted in lieu of cash compensation. The price of the securities acquired by the Reporting Person is based on the volume weighted average price of the Issuer's Class A common stock for the 10 trading days immediately preceding June 2, 2026, which was $23.4503.",
+   "F5": "The LTIP Units will vest ratably on the first, second and third anniversaries of June 2, 2026, subject to continued service on the Issuer's board of directors through the applicable vesting date."
+  }
+ },
+ {
+  "adsh": "0001628280-26-040779",
+  "issuer": "Postal Realty Trust, Inc.",
+  "ticker": "PSTL",
+  "owners": [
+   {
+    "name": "FEINGOLD ANTON",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 7291.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "Following the occurrence of certain events and upon vesting, the LTIP Units are convertible by Postal Realty Trust, Inc. (the \"Issuer\") into an equivalent number of units of the Operating Partnership (\"OP Units\"). OP Units are redeemable by the Reporting Person for cash or, at the election of the Issuer, shares of Class A common stock of the Issuer on a one-for-one basis or the cash value of such shares. LTIP Units do not have expiration dates.",
+   "F2": "Reflects LTIP Unit grants in lieu of cash compensation pursuant to the Issuer's Alignment of Interest Program that vest on the third anniversary of June 2, 2026, subject to certain conditions.",
+   "F3": "The LTIP Units are a class of limited partnership units of Postal Realty LP.",
+   "F4": "The LTIP Units were granted in lieu of cash compensation. The price of the securities acquired by the Reporting Person is based on the volume weighted average price of the Issuer's Class A common stock for the 10 trading days immediately preceding June 2, 2026, which was $23.4503.",
+   "F5": "The LTIP Units will vest ratably on the first, second and third anniversaries of June 2, 2026, subject to continued service on the Issuer's board of directors through the applicable vesting date."
+  }
+ },
+ {
+  "adsh": "0001628280-26-040780",
+  "issuer": "Postal Realty Trust, Inc.",
+  "ticker": "PSTL",
+  "owners": [
+   {
+    "name": "Gural-Senders Jane",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 6268.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "Following the occurrence of certain events and upon vesting, the LTIP Units are convertible by Postal Realty Trust, Inc. (the \"Issuer\") into an equivalent number of units of the Operating Partnership\n(\"OP Units\"). OP Units are redeemable by the Reporting Person for cash or, at the election of the Issuer, shares of Class A common stock of the Issuer on a one-for-one basis or the cash value of such\nshares. LTIP Units do not have expiration dates.",
+   "F2": "Reflects LTIP Unit grants in lieu of cash compensation pursuant to the Issuer's Alignment of Interest Program that vest on the third anniversary of June 2, 2026, subject to certain conditions.",
+   "F3": "The LTIP Units are a class of limited partnership units of Postal Realty LP.",
+   "F4": "The LTIP Units were granted in lieu of cash compensation. The price of the securities acquired by the Reporting Person is based on the volume weighted average price of the Issuer's Class A common stock for the 10 trading days immediately preceding June 2, 2026, which was $23.4503.",
+   "F5": "The LTIP Units will vest ratably on the first, second and third anniversaries of June 2, 2026, subject to continued service on the Issuer's board of directors through the applicable vesting date."
+  }
+ },
+ {
+  "adsh": "0001662103-26-000002",
+  "issuer": "Caris Life Sciences, Inc.",
+  "ticker": "CAI",
+  "owners": [
+   {
+    "name": "Knowles Jonathan Kenneth Charles",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 1600.0,
+  "value": 24992.0,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Shares issued in lieu of cash compensation for 2026 board retainer fees. Number of shares determined by dividing the cash retainer earned by the ten trading day average of the daily volume weighted average price per share through and including May 29, 2026."
+  }
+ },
+ {
+  "adsh": "0001678725-26-000002",
+  "issuer": "Customers Bancorp, Inc.",
+  "ticker": "CUBI",
+  "owners": [
+   {
+    "name": "Allon Andrea R.",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 625.0,
+  "value": 48881.25,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "This stock was issued to the reporting person in lieu of cash for director compensation for Q2 2026."
+  }
+ },
+ {
+  "adsh": "0001693472-26-000001",
+  "issuer": "HECLA MINING CO/DE/",
+  "ticker": "HL",
+  "owners": [
+   {
+    "name": "Boggs Catherine J",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A",
+   "J"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 10816.0,
+  "value": 93747.68,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Allocation of shares in trust to the account of Catherine J. Boggs in the Hecla Mining Company Stock Plan for Nonemployee Directors.",
+   "F2": "This price is the average closing price for Hecla's common Stock on the New York Stock Exchange for the prior calendar year (2025).",
+   "F3": "Total amount of shares held in trust on behalf of Ms. Boggs in the Hecla Mining Company Stock Plan for Nonemployee Directors.",
+   "F4": "Ms. Boggs elected to receive 75% of her award under the Hecla Mining Company Stock Plan for Nonemployee Directors directly, and 25% (3,606 shares) to the trust.",
+   "F5": "See footnote 2",
+   "F6": "Consists of 261,252 shares held directly and 6,070 shares deferred into trust under the Hecla Mining Company 2010 Stock Incentive Plan."
+  }
+ },
+ {
+  "adsh": "0001769664-26-000008",
+  "issuer": "GENERAL DYNAMICS CORP",
+  "ticker": "GD",
+  "owners": [
+   {
+    "name": "HANEY CECIL D",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 10.0,
+  "value": 3598.5,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Reflects stock received in lieu of director fees in accordance with outside directors' compensation program."
+  }
+ },
+ {
+  "adsh": "0001777907-26-000001",
+  "issuer": "HECLA MINING CO/DE/",
+  "ticker": "HL",
+  "owners": [
+   {
+    "name": "Gehring Dean",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A",
+   "J"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 7211.0,
+  "value": 62501.34,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Allocation of shares in trust to the account of Dean Gehring in the Hecla Mining Company Stock Plan for Nonemployee Directors.",
+   "F2": "This price is the average closing price for Hecla's common Stock on the New York Stock Exchange for the prior calendar year (2025).",
+   "F3": "Total amount of shares held in trust on behalf of Mr. Gehring in the Hecla Mining Company Stock Plan for Nonemployee Directors.",
+   "F4": "Ms. Gehring elected to receive 50% of his award under the Hecla Mining Company Stock Plan for Nonemployee Directors directly, and 50% (7,211) shares to the trust.",
+   "F5": "See footnote 2",
+   "F6": "Total amount of shares held directly by Mr. Gehring."
+  }
+ },
+ {
+  "adsh": "0001784171-26-000003",
+  "issuer": "CISCO SYSTEMS, INC.",
+  "ticker": "CSCO",
+  "owners": [
+   {
+    "name": "Tessel Marianna",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 251.0,
+  "value": 30162.67,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Represents a stock award covering shares in lieu of the reporting person's cash retainer fees, which is fully vested on the date of grant.",
+   "F2": "Includes 2,829.365 dividend equivalents accrued on vested deferred restricted stock units. Each dividend equivalent is the economic equivalent of one share of Cisco common stock."
+  }
+ },
+ {
+  "adsh": "0001788899-26-000004",
+  "issuer": "Autodesk, Inc.",
+  "ticker": "ADSK",
+  "owners": [
+   {
+    "name": "Howard Ayanna",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 2019.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "The Reporting Person is entitled to receive one share of Common Stock for each Restricted Stock Unit. These are Restricted Stock Units granted pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan in lieu of cash compensation for services as a director, and vest on the date of the next annual meeting.",
+   "F2": "The total securities beneficially owned includes 466 shares of unvested Restricted Stock Units and 3,476 shares of vested Restricted Stock Units the distribution of which the reporting person has deferred pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan.",
+   "F3": "The Reporting Person is entitled to receive one share of Common Stock for each Restricted Stock Unit. These Restricted Stock Units, which are granted annually pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan, vest on the date of the next annual meeting.",
+   "F4": "The total securities beneficially owned includes 2,019 shares of unvested Restricted Stock Units and 3,476 shares of vested Restricted Stock Units the distribution of which the reporting person has deferred pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan."
+  }
+ },
+ {
+  "adsh": "0001822993-26-000085",
+  "issuer": "Jackson Financial Inc.",
+  "ticker": "JXN",
+  "owners": [
+   {
+    "name": "Claffee Lily Fu",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 2894.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "Reflects award of restricted share units (\"RSUs\") granted on June 1, 2026, as part of the 2026-2027 Annual Director Compensation. The RSUs cliff vest on June 1, 2027, or the next Annual Meeting of Shareholders, whichever occurs earlier.  Upon the reporting person's end of service, vested RSUs will settle in shares of common stock on a 1:1 basis and any fractional share will be paid out in cash.",
+   "F2": "Reflects award of restricted share units (\"RSUs\") granted on June 1, 2026, where the reporting person elected to receive equity in lieu of the cash portion of the 2026-2027 Annual Director Compensation. The RSUs vest quarterly in four equal tranches on August 31, 2026, November 30, 2026, February 28, 2027, and May 31, 2027.  Upon the reporting person's end of service, vested RSUs will settle in shares of common stock on a 1:1 basis and any fractional share will be paid out in cash."
+  }
+ },
+ {
+  "adsh": "0001822993-26-000090",
+  "issuer": "Jackson Financial Inc.",
+  "ticker": "JXN",
+  "owners": [
+   {
+    "name": "Lippert Martin J",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 2894.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "Reflects award of restricted share units (\"RSUs\") granted on June 1, 2026, as part of the 2026-2027 Annual Director Compensation. The RSUs cliff vest on June 1, 2027, or the next Annual Meeting of Shareholders, whichever occurs earlier.  Upon the reporting person's end of service, vested RSUs will settle in shares of common stock on a 1:1 basis and any fractional share will be paid out in cash.",
+   "F2": "Reflects award of restricted share units (\"RSUs\") granted on June 1, 2026, where the reporting person elected to receive equity in lieu of the cash portion of the 2026-2027 Annual Director Compensation. The RSUs vest quarterly in four equal tranches on August 31, 2026, November 30, 2026, February 28, 2027, and May 31, 2027.  Upon the reporting person's end of service, vested RSUs will settle in shares of common stock on a 1:1 basis and any fractional share will be paid out in cash."
+  }
+ },
+ {
+  "adsh": "0001822993-26-000092",
+  "issuer": "Jackson Financial Inc.",
+  "ticker": "JXN",
+  "owners": [
+   {
+    "name": "STECHER ESTA E",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 3174.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "Reflects award of restricted share units (\"RSUs\") granted on June 1, 2026, as part of the 2026-2027 Annual Director Compensation. The RSUs cliff vest on June 1, 2027, or the next Annual Meeting of Shareholders, whichever occurs earlier.  Upon the reporting person's end of service, vested RSUs will settle in shares of common stock on a 1:1 basis and any fractional share will be paid out in cash.",
+   "F2": "Reflects award of restricted share units (\"RSUs\") granted on June 1, 2026, where the reporting person elected to receive equity in lieu of the cash portion of the 2026-2027 Annual Director Compensation. The RSUs vest quarterly in four equal tranches on August 31, 2026, November 30, 2026, February 28, 2027, and May 31, 2027.  Upon the reporting person's end of service, vested RSUs will settle in shares of common stock on a 1:1 basis and any fractional share will be paid out in cash."
+  }
+ },
+ {
+  "adsh": "0001827255-26-000004",
+  "issuer": "Crocs, Inc.",
+  "ticker": "CROX",
+  "owners": [
+   {
+    "name": "HUGHES CHARISSE FORD",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 1252.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "Represents the annual equity grant to non-employee directors pursuant to the issuer's Board of Directors Compensation Plan. In lieu of a common stock grant, the reporting person elected to receive\nher annual equity award as restricted stock units that vest upon the earlier of the reporting person's separation of service from the Board of Directors or a change in control of the issuer. Each restricted\nstock unit represents the contingent right to receive one share of the issuer's common stock."
+  }
+ },
+ {
+  "adsh": "0001839505-26-000002",
+  "issuer": "Customers Bancorp, Inc.",
+  "ticker": "CUBI",
+  "owners": [
+   {
+    "name": "Gill Mike",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 625.0,
+  "value": 48881.25,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "This stock was issued to the reporting person in lieu of cash for director compensation for Q2 2026."
+  }
+ },
+ {
+  "adsh": "0001847946-26-000008",
+  "issuer": "Autodesk, Inc.",
+  "ticker": "ADSK",
+  "owners": [
+   {
+    "name": "Krishnan Ram R.",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 0.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "The Reporting Person is entitled to receive one share of Common Stock for each Restricted Stock Unit. These are Restricted Stock Units granted pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan in lieu of cash compensation for services as a director, and vest on the date of the next annual meeting.",
+   "F2": "The total securities beneficially owned includes 466 shares of unvested Restricted Stock Units and 1,150 shares of vested Restricted Stock Units the distribution of which the reporting person has deferred pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan.",
+   "F3": "The Reporting Person is entitled to receive one share of Common Stock for each Restricted Stock Unit. These Restricted Stock Units, which are granted annually pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan, vest on the date of the next annual meeting.",
+   "F4": "The total securities beneficially owned includes 2,019 shares of unvested Restricted Stock Units and 1,150 shares of vested Restricted Stock Units the distribution of which the reporting person has deferred pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan."
+  }
+ },
+ {
+  "adsh": "0001850671-26-000014",
+  "issuer": "Clear Secure, Inc.",
+  "ticker": "YOU",
+  "owners": [
+   {
+    "name": "Hollister Kathryn A",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 5330.0,
+  "value": 65013.28,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Represents restricted stock units (\"RSUs\"), each of which represents a contingent right to receive a share of Class A Common Stock of the Issuer following the vesting date. The RSUs will vest upon the earlier of (i) June 10, 2027 or (ii) the Issuer's next annual meeting of stockholders, generally subject to the reporting person's continued service.",
+   "F2": "The reporting person elected to receive RSUs in lieu of cash retainer payments for service on the Issuer's board of directors.  The price of the RSUs reported herein represents the 20-trading day\naverage closing market price of the Issuer's Class A common stock for the period ending June 10, 2026, which price was used to calculate the number of RSUs issued to the Reporting Person. The RSUs will vest in four quarterly installments starting September 30, 2026, generally subject to the reporting person's continued service."
+  }
+ },
+ {
+  "adsh": "0001864193-26-000002",
+  "issuer": "Reservoir Media, Inc.",
+  "ticker": "RSVR",
+  "owners": [
+   {
+    "name": "Field Ezra S.",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 1231.0,
+  "value": 12494.65,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Represents Deferred Stock Units (\"DSUs\") awarded under the Reservoir Media, Inc. 2021 Omnibus Incentive Plan (the \"Plan\"). Each DSU is the economic equivalent of one share of common stock, $0.0001 par value per share (the \"Common Stock\"), of Reservoir Media, Inc. (the \"Issuer\"). The Reporting Person acquired these DSUs in connection with the Reporting Person's quarterly compensation for service as a non-employee director of the Issuer. The Reporting Person elected to receive payment of his quarterly compensation in DSUs in lieu of cash. This issuance of DSUs will be settled in shares of Common Stock on January 1, 2027 (the \"Settlement Date\").",
+   "F2": "The number of DSUs received was calculated based on $10.15, which was the closing price of the Issuer's Common Stock on the date of grant."
+  }
+ },
+ {
+  "adsh": "0001867327-26-000002",
+  "issuer": "Reservoir Media, Inc.",
+  "ticker": "RSVR",
+  "owners": [
+   {
+    "name": "Cook Stephen M.",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 492.0,
+  "value": 4993.8,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Represents Deferred Stock Units (\"DSUs\") awarded under the Reservoir Media, Inc. 2021 Omnibus Incentive Plan (the \"Plan\"). Each DSU is the economic equivalent of one share of common stock, $0.0001 par value per share (the \"Common Stock\"), of Reservoir Media, Inc. (the \"Issuer\"). The Reporting Person acquired these DSUs in connection with the Reporting Person's quarterly compensation for service as a non-employee director of the Issuer. The Reporting Person elected to receive payment of his quarterly compensation in DSUs in lieu of cash. This issuance of DSUs will be settled in shares of Common Stock on July 28, 2027. (the \"Settlement Date\"). The Reporting Person disclaims beneficial ownership of the underlying shares except to the extent of his pecuniary interest therein.",
+   "F2": "The number of DSUs received was calculated based on $10.15, which was the closing price of the Issuer's Common Stock on the date of grant."
+  }
+ },
+ {
+  "adsh": "0001894030-26-000010",
+  "issuer": "MARRIOTT VACATIONS WORLDWIDE Corp",
+  "ticker": "VAC",
+  "owners": [
+   {
+    "name": "Gray Jonice M",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 118.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "The Reporting Person elected to receive any dividends with respect to the Non-Employee Director Share Awards issued to the Reporting Person in the form of additional Non-Employee Director Share Awards. Such additional awards vest immediately upon issuance and are payable in common stock as specified by the Reporting Person at the time of the deferral election."
+  }
+ },
+ {
+  "adsh": "0001910332-26-000006",
+  "issuer": "Customers Bancorp, Inc.",
+  "ticker": "CUBI",
+  "owners": [
+   {
+    "name": "Banks Bernard Bennett",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 881.0,
+  "value": 68903.01,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "This stock was issued to the reporting person in lieu of cash for director compensation for Q2 2026."
+  }
+ },
+ {
+  "adsh": "0001910479-26-000010",
+  "issuer": "GENERAL DYNAMICS CORP",
+  "ticker": "GD",
+  "owners": [
+   {
+    "name": "Hooper Charles W",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 20.0,
+  "value": 7197.0,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Reflects stock received in lieu of director fees in accordance with outside directors' compensation program."
+  }
+ },
+ {
+  "adsh": "0001911373-26-000002",
+  "issuer": "Customers Bancorp, Inc.",
+  "ticker": "CUBI",
+  "owners": [
+   {
+    "name": "Mackay Robert Neil",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 522.0,
+  "value": 40825.62,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "This stock was issued to the reporting person in lieu of cash for director compensation for Q2 2026."
+  }
+ },
+ {
+  "adsh": "0002006183-26-000002",
+  "issuer": "Crocs, Inc.",
+  "ticker": "CROX",
+  "owners": [
+   {
+    "name": "TOLMARE NEERAJ",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 2347.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "Represents the annual common stock grant to non-employee directors pursuant to the issuer's Board of Directors Compensation Plan.",
+   "F2": "Pursuant to the issuer's Board of Directors Compensation Plan, the reporting person elected to receive restricted stock in lieu of the cash compensation retainer for Board and committee service. The\nrestricted stock vests in four successive quarterly installments from the issuance date."
+  }
+ },
+ {
+  "adsh": "0002018686-26-000008",
+  "issuer": "Black Diamond Therapeutics, Inc.",
+  "ticker": "BDTX",
+  "owners": [
+   {
+    "name": "Raman Prakash",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 7907.0,
+  "value": 13125.62,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "These shares were issued in accordance with the Issuer's Sixth Amended and Restated Non-Employee Director Compensation Policy, pursuant to which the Reporting Person elected to receive shares of the Issuer's common stock in lieu of cash compensation for annual services as a non-employee director of the Issuer.",
+   "F2": "The price reported in Column 4 is based upon the closing market price of the Issuer's common stock on June 18, 2026."
+  }
+ },
+ {
+  "adsh": "0002058781-26-000002",
+  "issuer": "Autodesk, Inc.",
+  "ticker": "ADSK",
+  "owners": [
+   {
+    "name": "Simons Anna C",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 2019.0,
+  "value": 0.0,
+  "value_known": false,
+  "keep": true,
+  "footnotes": {
+   "F1": "The Reporting Person is entitled to receive one share of Common Stock for each Restricted Stock Unit. These are Restricted Stock Units granted pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan in lieu of cash compensation for services as a director, and vest on the date of the next annual meeting.",
+   "F2": "The total securities beneficially owned includes 466 shares of unvested Restricted Stock Units.",
+   "F3": "The Reporting Person is entitled to receive one share of Common Stock for each Restricted Stock Unit. These Restricted Stock Units, which are granted annually pursuant to the 2026 Director Compensation Policy and under the 2022 Equity Incentive Plan, vest on the date of the next annual meeting.",
+   "F4": "The total securities beneficially owned includes 2,019 shares of unvested Restricted Stock Units."
+  }
+ },
+ {
+  "adsh": "0002096414-26-000002",
+  "issuer": "Customers Bancorp, Inc.",
+  "ticker": "CUBI",
+  "owners": [
+   {
+    "name": "Looney Susan Dianne",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 625.0,
+  "value": 48881.25,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "This stock was issued to the reporting person in lieu of cash for director compensation for Q2 2026."
+  }
+ },
+ {
+  "adsh": "0002096423-26-000002",
+  "issuer": "Customers Bancorp, Inc.",
+  "ticker": "CUBI",
+  "owners": [
+   {
+    "name": "Krasne Robert Morris",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 849.0,
+  "value": 66400.29,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "This stock was issued to the reporting person in lieu of cash for director compensation for Q2 2026."
+  }
+ },
+ {
+  "adsh": "0002096815-26-000002",
+  "issuer": "Customers Bancorp, Inc.",
+  "ticker": "CUBI",
+  "owners": [
+   {
+    "name": "Sirmans Dalton Talley",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 1,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 737.0,
+  "value": 57640.77,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "This stock was issued to the reporting person in lieu of cash for director compensation for Q2 2026."
+  }
+ },
+ {
+  "adsh": "0002104052-26-000103",
+  "issuer": "Enviri Corp",
+  "ticker": "NVRI",
+  "owners": [
+   {
+    "name": "Quinn John S",
+    "dir": true,
+    "off": false,
+    "title": null
+   }
+  ],
+  "role_ok": true,
+  "has_elect": true,
+  "kill_cash": false,
+  "is_10b5": false,
+  "n_acquire": 2,
+  "codes": [
+   "A"
+  ],
+  "acquire_codes": [
+   "A"
+  ],
+  "has_P": false,
+  "shares": 9405.0,
+  "value": 65624.0,
+  "value_known": true,
+  "keep": true,
+  "footnotes": {
+   "F1": "Restricted stock units granted under the Issuer's 2026 Omnibus Incentive Plan represent a contingent right to receive the Issuer's common stock on a one-for-one basis when the restricted stock units vest. Each reported restricted stock unit vests on the anniversary of the grant date.",
+   "F2": "Includes 13,379 shares acquired in a pro rata distribution by CLEH, Inc. on June 1, 2026 of all of the outstanding shares of the Issuer's common stock to the stockholders of CLEH, Inc.",
+   "F3": "Deferred Stock Units represent deferred cash compensation awarded based on an election by the reporting person in connection with the reporting person's service as a non-employee director of the Issuer. Each Deferred Stock Unit, following vesting, represents the right to receive the value, in cash, of 1 share of the Issuer's common stock at the time of the reporting person's elected distribution date(s). The Deferred Stock Units generally vest in installments at the end of each fiscal quarter in 2026. The reporting person elected to receive settlement and distribution of the Deferred Stock Units in five equal annual installments beginning in 2027."
+  }
+ }
+]
