@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0609</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2026-06-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000026324</issuerCik>
+        <issuerName>CURTISS WRIGHT CORP</issuerName>
+        <issuerTradingSymbol>CW</issuerTradingSymbol>
+        <issuerForeignTradingSymbol></issuerForeignTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001295366</rptOwnerCik>
+            <rptOwnerName>Wallace Peter C</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerNonUSAddressFlag>false</rptOwnerNonUSAddressFlag>
+            <rptOwnerStreet1>C/O CURTISS-WRIGHT CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>130 HARBOUR PLACE DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>DAVIDSON</rptOwnerCity>
+            <rptOwnerState>NC</rptOwnerState>
+            <rptOwnerZipCode>28036</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>0</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2026-06-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>221</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>719.99</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6209</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares were acquired through the Corporation's 2024 Omnibus Incentive Plan whereby non-employee directors may elect to defer their compensation, including their annual restricted stock award, and/or receive their annual retainer and meeting fees in the form of stock at a later date.</footnote>
+        <footnote id="F2">Reflects the annual restricted stock award that was earned in 2021, but receipt was deferred to June 1, 2025. Number of shares acquired is calculated based on the value of the award ($125,000) divided by the closing price of $115.24 for the Issuer's common stock as reported by the New York Stock Exchange on February 16, 2021, the date the Board initially approved the award. The number of shares is rounded up to the nearest whole share and includes dividend credits earned on outstanding award. This amount reflects 20% of the Reporting Person's restricted stock award as the reporting person elected to receive the restricted stock in five equal installments beginning June 1, 2025.</footnote>
+        <footnote id="F3">Price is based on the closing market price for the Issuer's securities on the New York Stock Exchange as of June 1, 2026. The date recipient elected to receive his shares.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>George P. McDonald by Power of Attorney for Peter C. Wallace</signatureName>
+        <signatureDate>2026-06-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
